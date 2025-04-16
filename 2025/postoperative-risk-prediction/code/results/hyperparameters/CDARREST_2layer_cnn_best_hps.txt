@@ -1,0 +1,1 @@
+{'filters': 32, 'kernel_size': 3, 'learning_rate': 0.01}

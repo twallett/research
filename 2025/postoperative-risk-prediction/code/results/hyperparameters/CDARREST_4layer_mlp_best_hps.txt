@@ -1,0 +1,1 @@
+{'units_1': 96, 'units_2': 48, 'units_3': 8, 'dropout_rate': 0.30000000000000004, 'learning_rate': 0.01}

@@ -1,0 +1,1 @@
+{'filters_1': 48, 'filters_2': 96, 'filters_3': 128, 'filters_4': 96, 'filters_5': 48, 'kernel_size': 5, 'pool_size': 2, 'dense_units_1': 128, 'dense_units_2': 48, 'dropout_rate': 0.30000000000000004, 'learning_rate': 0.001}

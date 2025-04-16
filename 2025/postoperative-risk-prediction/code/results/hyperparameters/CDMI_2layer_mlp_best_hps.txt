@@ -1,0 +1,1 @@
+{'units': 104, 'learning_rate': 0.001}

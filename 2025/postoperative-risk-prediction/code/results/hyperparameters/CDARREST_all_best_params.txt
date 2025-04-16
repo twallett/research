@@ -1,0 +1,12 @@
+2layer_mlp: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7485bd999a00>
+2layer_cnn: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7485bd7349e0>
+4layer_mlp: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7485ae3ec4a0>
+4layer_cnn: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x748598682c00>
+8layer_mlp: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x748597991280>
+8layer_cnn: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x74858ab7b5c0>
+nb: No hyperparameters to tune
+lr: No hyperparameters tuned - trained with default parameters
+rf: {'max_depth': 30, 'n_estimators': 300}
+knn: {'metric': 'manhattan', 'n_neighbors': 11}
+dt: {'criterion': 'entropy', 'max_depth': 20}
+xgb: {'learning_rate': 0.1, 'max_depth': 20, 'n_estimators': 100}
