@@ -34,7 +34,7 @@ os.makedirs('results/best_models', exist_ok=True)
 df = pd.read_csv("data/LapGenSurgOnly_2022.csv")
 
 INPUT_FEATURES = [
-    "Age", "SEX", "RACE_NEW", "BMI", "INOUT", "ASACLAS", "CPT", "ANESTHES",
+    "Age", "SEX", "RACE_NEW", "BMI", "INOUT", "ASACLAS", "CPT",
     "DIABETES", "SMOKE", "FNSTATUS2", "HXCOPD", "ASCITES", "HXCHF", "HYPERMED",
     "DIALYSIS", "DISCANCR", "STEROID", "TRANSFUS"
 ]
@@ -87,11 +87,6 @@ for target in TARGET_FEATURES:
     
     X = df[INPUT_FEATURES].copy()
     y = df[target].copy()
-
-    X = X.replace("Unknown", np.nan)
-    data = pd.concat([X, y], axis=1).dropna()
-    X = data[INPUT_FEATURES]
-    y = data[target]
 
     label_encoders = {}
     for col in X.select_dtypes(include='object').columns:
