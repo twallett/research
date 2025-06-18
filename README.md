@@ -20,11 +20,17 @@ This repository contains various research projects and papers. Each project is o
 
 #### A Benchmark for Graph-based Dynamic Recommendation Systems: 
 
-This project explores the use of Graph Neural Networks (GNNs) for dynamic recommendation systems.
+<table>
+  <tr>
+    <td style="width: 50%;">
+      <img src="2024/dynamic-recommender-gnn/latex/img/dynamic-recommender-gnn.pdf" width="100%">
+    </td>
+  </tr>
+</table>
 
 ```bibtex
 @article{wallett2024benchmark,
-  author    = {Wallett, Tyler and Jafari, Amirhossein},
+  author    = {Wallett, Tyler and Jafari, Amir},
   title     = {A benchmark for graph-based dynamic recommendation systems},
   journal   = {Neural Computing and Applications},
   year      = {2024},
