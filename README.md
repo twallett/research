@@ -22,7 +22,7 @@ This repository contains various research projects and papers. Each project is o
 
 <table>
   <tr>
-    <td style="width: 50%;">
+    <td style="width: 100%;">
       <img src="2024/dynamic-recommender-gnn/latex/img/dynamic-recommender-gnn.png" width="100%">
     </td>
   </tr>
