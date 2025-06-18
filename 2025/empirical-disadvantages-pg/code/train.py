@@ -11,9 +11,14 @@ import warnings
 warnings.filterwarnings("ignore")
 
 SEED = 123 
+<<<<<<< Updated upstream:2025/empirical-disadvantages-policy-gradient/code/train.py
 ENV_NAMES = ["CartPole-v1", "HalfCheetah-v5"] 
 EPISODES = [2000, 50000] 
 EPISODES = [1, 1] 
+=======
+ENV_NAME = "Cartpole-v1" # CartPole-v1, HalfCheetah-v5, highway-v0 might need an import 
+EPISODES = 20000 # since we have gpus maybe increase this to like 500,000 to 1 million depending on how long it takes
+>>>>>>> Stashed changes:2025/empirical-disadvantages-pg/code/train.py
 GAMMA = 0.99
 ALPHA_PI_VALUES = [3e-05, 3e-04, 3e-03]
 ALPHA_V_VALUES = [1e-04, 1e-03, 1e-02] 

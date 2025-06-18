@@ -57,8 +57,16 @@ import torch
 
 If you find this work useful in your research, please cite the corresponding research paper:
 
-```bash
-Wallett, T., Jafari, A. A benchmark for graph-based dynamic recommendation systems. Neural Comput & Applic (2024). https://doi.org/10.1007/s00521-024-10425-6
+```bibtex
+@article{wallett2024benchmark,
+  author    = {Wallett, Tyler and Jafari, Amirhossein},
+  title     = {A benchmark for graph-based dynamic recommendation systems},
+  journal   = {Neural Computing and Applications},
+  year      = {2024},
+  publisher = {Springer},
+  doi       = {10.1007/s00521-024-10425-6},
+  url       = {https://doi.org/10.1007/s00521-024-10425-6}
+}
 ```
 
 For any inquiries or feedback, please contact twallett@gwu.edu
