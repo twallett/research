@@ -1,6 +1,9 @@
 import os
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import numpy as np
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 from tqdm import tqdm
@@ -9,6 +12,7 @@ from models import (PolicyGradient,
                     Buffer,
                     PPOClip)
 from torch.utils.tensorboard import SummaryWriter
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 import warnings
 
@@ -160,6 +164,8 @@ for env_idx, env_name in enumerate(ENV_NAMES):
 
 print("\nTraining complete! All results saved to the 'results' directory")
 =======
+=======
+>>>>>>> Stashed changes
 
 SEED = 123 
 ENV_NAME = "Cartpole-v1" # CartPole-v1, HalfCheetah-v5, highway-v0 might need an import 
@@ -213,5 +219,9 @@ for episode in tqdm(range(EPISODES)):
         model.save_model(ENV_NAME)
         print(f"saved model at episode: {episode} with cum_rew {prev_cum_rew}")
     writer.add_scalar('total_reward_per_episode', cum_rew, episode)
+<<<<<<< Updated upstream
+env.close() 
+>>>>>>> Stashed changes
+=======
 env.close() 
 >>>>>>> Stashed changes
