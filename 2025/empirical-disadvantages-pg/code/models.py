@@ -89,7 +89,7 @@ class Buffer:
         states, actions, rewards = batch
         return (
             tf.convert_to_tensor(list(states), dtype=tf.float32),
-            tf.convert_to_tensor(list(actions), dtype=tf.float32),
+            tf.convert_to_tensor(list(actions), dtype=tf.int32),
             tf.convert_to_tensor(list(rewards), dtype=tf.float32)
         )
 

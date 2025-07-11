@@ -11,8 +11,10 @@ import warnings
 warnings.filterwarnings("ignore")
 
 SEED = 123 
-ENV_NAMES = ["CartPole-v1"] 
-EPISODES = [2000] 
+# ENV_NAMES = ["CartPole-v1","Acrobot-v1"] 
+ENV_NAMES = ["Acrobot-v1"] 
+# EPISODES = [2000] 
+EPISODES = [5000] 
 GAMMA = 0.99
 ALPHA_PI_VALUES = [1e-04, 5e-04, 1e-03, 5e-03, 1e-02] 
 ALPHA_V_VALUES = [1e-04, 5e-04, 1e-03, 5e-03, 1e-02]  
