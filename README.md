@@ -6,7 +6,11 @@
 │   └── dynamic-recommender-gnn
 ├── 2025
 │   ├── empirical-disadvantages-pg
-│   └── postoperative-risk-prediction
+│   └── postoperative-prediction-ml
+├── 2026 # Manuscripts In Preparation
+│   ├── pseudo-labeling-drl
+│   ├── recsim-adaptation-rl
+│   └── education-recommender-cmab
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -42,13 +46,33 @@ This repository contains various research projects and papers. Each project is o
 
 ### 2025
 
-#### Empirical Disadvantages of Policy Gradients (In Progress): 
+#### Predicting Postoperative Complications in Laparoscopic General Surgery Using Machine and Deep Learning: A Classification Approach
 
-This project investigates the empirical disadvantages of policy gradients in reinforcement learning.
+<table>
+  <tr>
+    <td style="width: 100%;">
+      <img src="2025/postoperative-risk-prediction/latex/imgs/postoperative-risk-prediction.png" width="100%">
+    </td>
+  </tr>
+</table>
 
-#### Predicting Postoperative Complications in Laparoscopic General Surgery Using Machine and Deep Learning: A Classification Approach (Under Review): 
+```bibtex
+pending.
+```
 
-This project focuses on predicting postoperative risks using machine and deep learning techniques.
+## Manuscripts In Preparation (Expected 2026)
+
+#### A Framework for Pseudo-labeling with Deep Reinforcement Learning
+
+[Link](https://github.com/phanindra-max/fall-2025-group11)
+
+#### Adaptation to User Preference Drift using RecSim
+
+[Link](https://github.com/Z-HemaP/fall-2025-group12)
+
+#### Education Recommendations with Contextual Bandits
+
+[Link](https://github.com/75Dineshchandra/fall-2025-group8)
 
 ## Usage
 
