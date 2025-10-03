@@ -21,7 +21,7 @@ This repository contains various research projects and papers. Each project is o
 
 ### 2024
 
-#### A Benchmark for Graph-based Dynamic Recommendation Systems: 
+#### A Benchmark for Graph-based Dynamic Recommendation Systems
 
 <table>
   <tr>
