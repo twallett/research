@@ -5,7 +5,7 @@ import tensorflow as tf
 
 SEED = 123
 ENV_NAME = "CartPole-v1"
-EPISODES = 10
+EPISODES = 100
 
 env = gym.make(ENV_NAME,
                render_mode = 'human')
