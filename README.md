@@ -51,7 +51,7 @@ This repository contains various research projects and papers. Each project is o
 <table>
   <tr>
     <td style="width: 100%;">
-      <img src="2025/postoperative-risk-prediction/latex/imgs/postoperative-risk-prediction.png" width="100%">
+      <img src="2025/postoperative-prediction-ml/latex/imgs/postoperative-risk-prediction.png" width="100%">
     </td>
   </tr>
 </table>
