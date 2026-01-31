@@ -3,13 +3,12 @@
 ```bash
 .
 ├── 2024
-│   └── dynamic-recommender-gnn
+│   └── dynamic-recommender-gnn # Springer Nature
 ├── 2025
-│   └── postoperative-prediction-ml
-├── 2026 # Manuscripts In Preparation
-│   ├── pseudo-labeling-rl
-│   ├── recsim-adaptation-rl
-│   └── education-recommender-cmab
+│   └── postoperative-prediction-ml # Springer Nature
+├── 2026 # Under Review
+│   ├── fcps-recommendations-cmab # Springer Nature
+│   └── fusing-embeddings-llm-gnn # Association for Computing Machinery (ACM)
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -56,25 +55,52 @@ This repository contains various research projects and papers. Each project is o
 </table>
 
 ```bibtex
-pending.
+@article{Wallett2026,
+  author = {Wallett, Tyler and Jafari, Amir and Qian, Xi and Abdygulov, Timur and Qi, Xiao and Nourshamsi, Neda and Davis, Jevaughn and Puneet, Gupta},
+  title = {Predicting postoperative complications in laparoscopic general surgery using machine and deep learning: a classification approach},
+  journal = {Neural Computing and Applications},
+  year = {2026},
+  volume = {38},
+  number = {1},
+  pages = {4},
+  doi = {10.1007/s00521-025-11813-2},
+  url = {https://doi.org/10.1007/s00521-025-11813-2},
+  issn = {1433-3058}
+}
 ```
 
-## Manuscripts In Preparation (Expected 2026)
+## Expected 2026
 
-#### A Framework for Pseudo-labeling with Deep Reinforcement Learning
+#### Health-Aware School Meal Recommendations with Contextual Bandits
 
-[Link](https://github.com/phanindra-max/fall-2025-group11)
+<table>
+  <tr>
+    <td style="width: 100%;">
+      <img src="2026/fcps-recommendations-cmab/fcps-recommendations-cmab.png" width="100%">
+    </td>
+  </tr>
+</table>
 
-#### Adaptation to User Preference Drift using RecSim
+```bibtex
+Under Review.
+```
 
-[Link](https://github.com/Z-HemaP/fall-2025-group12)
+#### Fusing Semantic and Graph Representations for Citation-Aware Paper Retrieval
 
-#### Education Recommendations with Contextual Bandits
+<table>
+  <tr>
+    <td style="width: 100%;">
+      <img src="2026/fusing-embeddings-llm-gnn/fusing-embeddings-llm-gnn.png" width="100%">
+    </td>
+  </tr>
+</table>
 
-[Link](https://github.com/75Dineshchandra/fall-2025-group8)
+```bibtex
+Under Review.
+```
 
 ## Usage
 
-Each subdirectory contains its own set of implementations and explanatory notes. To explore the implementations and learn more about each concept, navigate to the respective subdirectory's README.md file.
+Each subdirectory contains its own set of implementations and explanatory notes. To explore the implementations and learn more about each concept, navigate to the respective subdirectory's `README.md` file.
 
 Feel free to explore, experiment, and contribute to this open source project.

@@ -1,0 +1,7 @@
+{
+  "avg_gnn_semantic_score": 0.4820600161849259,
+  "avg_semantic_only_score": 0.6844182761967565,
+  "avg_improvement_pct": -29.556320482378634,
+  "avg_overlap_top5": 3.4,
+  "avg_overlap_top10": 7.4
+}

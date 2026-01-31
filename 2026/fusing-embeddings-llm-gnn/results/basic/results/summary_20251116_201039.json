@@ -1,0 +1,9 @@
+{
+  "timestamp": "20251116_201039",
+  "num_queries": 10,
+  "avg_top1_score": 0.3660825012237423,
+  "avg_score": 0.2741725809066282,
+  "avg_top5_score": 0.30590346193884776,
+  "num_relevant_queries": 8,
+  "relevance_rate": 0.8
+}

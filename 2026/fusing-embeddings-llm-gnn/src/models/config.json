@@ -1,0 +1,16 @@
+{
+  "model_type": "text-generation",
+  "model_name": "mistralai/Mistral-7B-Instruct-v0.2",
+  "embedding_model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "device": "cuda:0",
+  "dtype": "float16",
+  "max_new_tokens": 64,
+  "temperature": 0.7,
+  "default_prompt": "Answer the question briefly and accurately.",
+  "system_prompts": {
+    "llama": "You are a helpful assistant. Follow instructions carefully and be concise.",
+    "mistral": "You are Mistral, a concise and helpful assistant.",
+    "default": "You are a helpful assistant."
+  },
+  "hf_token": ""
+}

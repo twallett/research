@@ -1,0 +1,11 @@
+Query,Category,Top-1 Score,Avg Score,Top-5 Avg,Relevant
+deep learning neural networks,Deep Learning,0.8027,0.7668,0.7772,Yes
+graph neural networks for molecular property predi,GNN Applications,0.9436,0.9052,0.9236,Yes
+natural language processing transformers,NLP,0.8909,0.8492,0.8674,Yes
+RL for robotics,Robotics & RL,0.8600,0.7873,0.8036,Yes
+computer vision object detection,Computer Vision,0.8633,0.8249,0.8380,Yes
+IoT security cryptography,Security,0.8547,0.8398,0.8460,Yes
+machine learning optimization algorithms,ML Theory,0.8225,0.7835,0.7935,Yes
+recommender systems collaborative filtering,Recommender Systems,0.8882,0.8570,0.8711,Yes
+graph convolutional networks,Graph Learning,0.8804,0.8573,0.8665,Yes
+attention mechanisms neural networks,Attention,0.7089,0.6938,0.7050,Yes

@@ -1,0 +1,115 @@
+================================================================================
+PAPER RECOMMENDATION SYSTEM - EVALUATION REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Number of test queries: 10
+Average Top-1 Score: 0.8515
+Average Score: 0.8165
+Average Top-5 Score: 0.8292
+Queries with relevant results: 10/10
+
+PER-QUERY RESULTS
+--------------------------------------------------------------------------------
+
+Query: deep learning neural networks
+Category: Deep Learning
+  Top-1 Score: 0.8027
+  Avg Score: 0.7668
+  Top-3 Papers:
+    1. [0.8027] List of Deep Learning Models
+    2. [0.7756] Deep learning—a first meta-survey of selected reviews across scientific disciplines, their commonalities, challenges and research impact
+    3. [0.7755] Milestones and New Frontiers in Deep Learning
+
+Query: graph neural networks for molecular property prediction
+Category: GNN Applications
+  Top-1 Score: 0.9436
+  Avg Score: 0.9052
+  Top-3 Papers:
+    1. [0.9436] Applying Graph Neural Network Models to Molecular Property Prediction Using High-quality Experimental Data
+    2. [0.9429] Graph neural networks for the prediction of molecular structure-property relationships
+    3. [0.9163] Graph neural networks with molecular segmentation for property prediction and structure-property relationship discovery
+
+Query: natural language processing transformers
+Category: NLP
+  Top-1 Score: 0.8909
+  Avg Score: 0.8492
+  Top-3 Papers:
+    1. [0.8909] Transformers in the Real World: A Survey on NLP Applications
+    2. [0.8760] A Survey on Transformers in NLP with Focus on Efficiency
+    3. [0.8642] Linguistic Feature Injection for Efficient Natural Language Processing
+
+Query: RL for robotics
+Category: Robotics & RL
+  Top-1 Score: 0.8600
+  Avg Score: 0.7873
+  Top-3 Papers:
+    1. [0.8600] RSL-RL: A Learning Library for Robotics Research
+    2. [0.8127] FRobs_RL: A Flexible Robotics Reinforcement Learning Library
+    3. [0.7882] Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes
+
+Query: computer vision object detection
+Category: Computer Vision
+  Top-1 Score: 0.8633
+  Avg Score: 0.8249
+  Top-3 Papers:
+    1. [0.8633] Neural Networks based Object Detection Techniques in Computer Vision
+    2. [0.8490] A Survey on Real-Time Object Detection Algorithms
+    3. [0.8367] Performance evaluation of object detection techniques for object detection
+
+Query: IoT security cryptography
+Category: Security
+  Top-1 Score: 0.8547
+  Avg Score: 0.8398
+  Top-3 Papers:
+    1. [0.8547] Comparative Analysis of Cryptography Library in IoT
+    2. [0.8456] SYMMETRIC ENCRYPTION AND CRYPTOGRAPHY ALGORITHMS IN INTERNET OF THINGS
+    3. [0.8452] Blockchain-Based IoT Device Authentication and Cost-Effective Key Management Framework
+
+Query: machine learning optimization algorithms
+Category: ML Theory
+  Top-1 Score: 0.8225
+  Avg Score: 0.7835
+  Top-3 Papers:
+    1. [0.8225] A Survey of Optimization Methods From a Machine Learning Perspective
+    2. [0.7977] A survey of machine learning techniques in structural and multidisciplinary optimization
+    3. [0.7863] Towards Automatic Bayesian Optimization: A first step involving acquisition functions
+
+Query: recommender systems collaborative filtering
+Category: Recommender Systems
+  Top-1 Score: 0.8882
+  Avg Score: 0.8570
+  Top-3 Papers:
+    1. [0.8882] A collaborative filtering recommender systems: Survey
+    2. [0.8760] Recommender Systems and Collaborative Filtering
+    3. [0.8720] Recommender systems based on collaborative filtering and resource allocation
+
+Query: graph convolutional networks
+Category: Graph Learning
+  Top-1 Score: 0.8804
+  Avg Score: 0.8573
+  Top-3 Papers:
+    1. [0.8804] Dynamic Graph Convolutional Networks
+    2. [0.8749] Effects of Graph Convolutions in Deep Networks
+    3. [0.8630] Spectral Graph Convolutional Neural Networks in the Context of Regularization Theory
+
+Query: attention mechanisms neural networks
+Category: Attention
+  Top-1 Score: 0.7089
+  Avg Score: 0.6938
+  Top-3 Papers:
+    1. [0.7089] Multi-head attention-based masked sequence model for mapping functional brain networks
+    2. [0.7083] An Attentive Survey of Attention Models
+    3. [0.7080] An Interpretable Channelwise Attention Mechanism based on Asymmetric and Skewed Gaussian Distribution
+
+================================================================================
+GNN vs SEMANTIC-ONLY COMPARISON
+================================================================================
+Average GNN+Semantic Score: 0.8165
+Average Semantic-only Score: 0.6844
+Average Improvement: +19.83%
+Average Top-5 Overlap: 3.3/5
+Average Top-10 Overlap: 6.4/10
+
+================================================================================

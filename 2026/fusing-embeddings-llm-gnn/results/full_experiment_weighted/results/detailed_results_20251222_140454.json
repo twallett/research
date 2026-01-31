@@ -1,0 +1,1072 @@
+[
+  {
+    "query": "deep learning neural networks",
+    "category": "Deep Learning",
+    "metrics": {
+      "query": "deep learning neural networks",
+      "num_results": 10,
+      "avg_score": 0.4370197547370115,
+      "top_1_score": 0.445310255888723,
+      "top_5_avg_score": 0.4404258266030311,
+      "score_variance": 2.17276630109563e-05,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.445310255888723,
+        0.44074080859330755,
+        0.43961697918397086,
+        0.43954304515654563,
+        0.43691804419260866,
+        0.43671352879504044,
+        0.4357149577113714,
+        0.43546426230025925,
+        0.43334790593532585,
+        0.42682775961296193
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Neural Networks and Deep Learning",
+        "doi": "10.1108/978-1-83909-694-520211010",
+        "score": 0.445310255888723,
+        "year": 2021,
+        "venue": "The Machine Age of Customer Insight"
+      },
+      {
+        "rank": 2,
+        "title": "Towards combining deep learning, verification, and scenario-based programming",
+        "doi": "10.1145/3459086.3459631",
+        "score": 0.44074080859330755,
+        "year": 2021,
+        "venue": "Proceedings of the 1st International Workshop on Verification of Autonomous & Robotic Systems"
+      },
+      {
+        "rank": 3,
+        "title": "Deep Learning Techniques and Applications",
+        "doi": "10.54254/2755-2721/2025.po25828",
+        "score": 0.43961697918397086,
+        "year": 2025,
+        "venue": "Applied and Computational Engineering"
+      },
+      {
+        "rank": 4,
+        "title": "Unveiling the frontiers of deep learning: Innovations shaping diverse domains",
+        "doi": "10.1007/s10489-025-06259-x",
+        "score": 0.43954304515654563,
+        "year": 2023,
+        "venue": "Applied intelligence (Boston)"
+      },
+      {
+        "rank": 5,
+        "title": "A Survey of Deep Learning: From Activations to Transformers",
+        "doi": "10.48550/arxiv.2302.00722",
+        "score": 0.43691804419260866,
+        "year": 2023,
+        "venue": "International Conference on Agents and Artificial Intelligence"
+      },
+      {
+        "rank": 6,
+        "title": "Deep Learning Interpretation",
+        "doi": "10.1145/3240508.3241472",
+        "score": 0.43671352879504044,
+        "year": 2018,
+        "venue": "ACM Multimedia"
+      },
+      {
+        "rank": 7,
+        "title": "The Computational Limits of Deep Learning",
+        "doi": "10.21428/bf6fb269.1f033948",
+        "score": 0.4357149577113714,
+        "year": 2020,
+        "venue": "Ninth Computing within Limits 2023"
+      },
+      {
+        "rank": 8,
+        "title": "Understanding of Machine Learning with Deep Learning: Architectures, Workflow, Applications and Future Directions",
+        "doi": "10.3390/computers12050091",
+        "score": 0.43546426230025925,
+        "year": 2023,
+        "venue": "De Computis"
+      },
+      {
+        "rank": 9,
+        "title": "A Systematic Performance Analysis of Deep Perceptual Loss Networks Breaks Transfer Learning Conventions",
+        "doi": "10.48550/arxiv.2302.04032",
+        "score": 0.43334790593532585,
+        "year": 2023,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 10,
+        "title": "A State-of-the-Art Survey on Deep Learning Theory and Architectures",
+        "doi": "10.3390/electronics8030292",
+        "score": 0.42682775961296193,
+        "year": 2019,
+        "venue": "Electronics"
+      }
+    ]
+  },
+  {
+    "query": "graph neural networks for molecular property prediction",
+    "category": "GNN Applications",
+    "metrics": {
+      "query": "graph neural networks for molecular property prediction",
+      "num_results": 10,
+      "avg_score": 0.5806794211665263,
+      "top_1_score": 0.639717603959741,
+      "top_5_avg_score": 0.6055689496909071,
+      "score_variance": 0.0009198907058877697,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.639717603959741,
+        0.6163896680475182,
+        0.600542703504207,
+        0.5904997025044126,
+        0.5806950704386569,
+        0.5732382869085073,
+        0.5645375249168754,
+        0.5597047865886438,
+        0.5409786645976981,
+        0.5404902001990022
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Applying Graph Neural Network Models to Molecular Property Prediction Using High-quality Experimental Data",
+        "doi": "10.1016/j.aichem.2024.100050",
+        "score": 0.639717603959741,
+        "year": 2024,
+        "venue": "Artificial Intelligence Chemistry"
+      },
+      {
+        "rank": 2,
+        "title": "Graph neural networks for the prediction of molecular structure-property relationships",
+        "doi": "10.1039/bk9781837670178-00159",
+        "score": 0.6163896680475182,
+        "year": 2022,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 3,
+        "title": "Graph neural networks with molecular segmentation for property prediction and structure-property relationship discovery",
+        "doi": "10.1016/j.compchemeng.2023.108403",
+        "score": 0.600542703504207,
+        "year": 2023,
+        "venue": "Computers and Chemical Engineering"
+      },
+      {
+        "rank": 4,
+        "title": "MD-GNN: A mechanism-data-driven graph neural network for molecular properties prediction and new material discovery.",
+        "doi": "10.1016/j.jmgm.2023.108506",
+        "score": 0.5904997025044126,
+        "year": 2023,
+        "venue": "Journal of Molecular Graphics and Modelling"
+      },
+      {
+        "rank": 5,
+        "title": "Graph Neural Networks for Molecules",
+        "doi": "10.1007/978-3-031-37196-7_2",
+        "score": 0.5806950704386569,
+        "year": 2022,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 6,
+        "title": "Graph networks for molecular design",
+        "doi": "10.1088/2632-2153/abcf91",
+        "score": 0.5732382869085073,
+        "year": 2020,
+        "venue": "Machine Learning: Science and Technology"
+      },
+      {
+        "rank": 7,
+        "title": "Costless Performance Improvement in Machine Learning for Graph-Based Molecular Analysis",
+        "doi": "10.1021/acs.jcim.9b00816",
+        "score": 0.5645375249168754,
+        "year": 2020,
+        "venue": "Journal of Chemical Information and Modeling"
+      },
+      {
+        "rank": 8,
+        "title": "Predicting molecular properties based on the interpretable graph neural network with multistep focus mechanism",
+        "doi": "10.1093/bib/bbac534",
+        "score": 0.5597047865886438,
+        "year": 2022,
+        "venue": "Briefings Bioinform."
+      },
+      {
+        "rank": 9,
+        "title": "A graph representation of molecular ensembles for polymer property prediction",
+        "doi": "10.1039/d2sc02839e",
+        "score": 0.5409786645976981,
+        "year": 2022,
+        "venue": "Chemical Science"
+      },
+      {
+        "rank": 10,
+        "title": "Chemistry-intuitive explanation of graph neural networks for molecular property prediction with substructure masking",
+        "doi": "10.1038/s41467-023-38192-3",
+        "score": 0.5404902001990022,
+        "year": 2023,
+        "venue": "Nature Communications"
+      }
+    ]
+  },
+  {
+    "query": "natural language processing transformers",
+    "category": "NLP",
+    "metrics": {
+      "query": "natural language processing transformers",
+      "num_results": 10,
+      "avg_score": 0.527669541972469,
+      "top_1_score": 0.5804503991111094,
+      "top_5_avg_score": 0.5465792122167208,
+      "score_variance": 0.0005698244838226543,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.5804503991111094,
+        0.5515122036248594,
+        0.5379244986963017,
+        0.5324692184380628,
+        0.5305397412132705,
+        0.5254818448875473,
+        0.5118265054076798,
+        0.5023721127044033,
+        0.5021393520732308,
+        0.5019795435682246
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Transformers in the Real World: A Survey on NLP Applications",
+        "doi": "10.3390/info14040242",
+        "score": 0.5804503991111094,
+        "year": 2023,
+        "venue": "Inf."
+      },
+      {
+        "rank": 2,
+        "title": "A Survey on Transformers in NLP with Focus on Efficiency",
+        "doi": "10.48550/arxiv.2406.16893",
+        "score": 0.5515122036248594,
+        "year": 2024,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 3,
+        "title": "Linguistic Feature Injection for Efficient Natural Language Processing",
+        "doi": "10.1109/ijcnn54540.2023.10191680",
+        "score": 0.5379244986963017,
+        "year": 2023,
+        "venue": "IEEE International Joint Conference on Neural Network"
+      },
+      {
+        "rank": 4,
+        "title": "Natural Language Processing with Transformer-Based Models: A Meta-Analysis",
+        "doi": "10.32604/jai.2025.069226",
+        "score": 0.5324692184380628,
+        "year": 2025,
+        "venue": "Journal of Artificial Intelligence"
+      },
+      {
+        "rank": 5,
+        "title": "Survey of transformers and towards ensemble learning using transformers for natural language processing",
+        "doi": "10.1186/s40537-023-00842-0",
+        "score": 0.5305397412132705,
+        "year": 2024,
+        "venue": "Journal of Big Data"
+      },
+      {
+        "rank": 6,
+        "title": "Generative AI in the Era of Transformers: Revolutionizing Natural Language Processing with LLMs",
+        "doi": "10.55529/jipirs.42.54.61",
+        "score": 0.5254818448875473,
+        "year": 2024,
+        "venue": "Feb-Mar 2024"
+      },
+      {
+        "rank": 7,
+        "title": "Identifying the limits of transformers when performing model-checking with natural language",
+        "doi": "10.18653/v1/2023.eacl-main.257",
+        "score": 0.5118265054076798,
+        "year": 2023,
+        "venue": "Conference of the European Chapter of the Association for Computational Linguistics"
+      },
+      {
+        "rank": 8,
+        "title": "On the Validity of Pre-Trained Transformers for Natural Language Processing in the Software Engineering Domain",
+        "doi": "10.1109/tse.2022.3178469",
+        "score": 0.5023721127044033,
+        "year": 2021,
+        "venue": "IEEE Transactions on Software Engineering"
+      },
+      {
+        "rank": 9,
+        "title": "Can Transformers Reason in Fragments of Natural Language?",
+        "doi": "10.48550/arxiv.2211.05417",
+        "score": 0.5021393520732308,
+        "year": 2022,
+        "venue": "Conference on Empirical Methods in Natural Language Processing"
+      },
+      {
+        "rank": 10,
+        "title": "A Comprehensive Review on Transformers Models For Text Classification",
+        "doi": "10.1109/miucc58832.2023.10278387",
+        "score": 0.5019795435682246,
+        "year": 2023,
+        "venue": "2023 International Mobile, Intelligent, and Ubiquitous Computing Conference (MIUCC)"
+      }
+    ]
+  },
+  {
+    "query": "RL for robotics",
+    "category": "Robotics & RL",
+    "metrics": {
+      "query": "RL for robotics",
+      "num_results": 10,
+      "avg_score": 0.39461553816872585,
+      "top_1_score": 0.4935749792978704,
+      "top_5_avg_score": 0.4162250204996513,
+      "score_variance": 0.0013074883892453088,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.4935749792978704,
+        0.4187332002561514,
+        0.4019027140160546,
+        0.38420511812997904,
+        0.3827090907982013,
+        0.3768340359234867,
+        0.37556268802065096,
+        0.3745256363004328,
+        0.3709803971485097,
+        0.36712752179592223
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "RSL-RL: A Learning Library for Robotics Research",
+        "doi": "10.48550/arxiv.2509.10771",
+        "score": 0.4935749792978704,
+        "year": 2025,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 2,
+        "title": "FRobs_RL: A Flexible Robotics Reinforcement Learning Library",
+        "doi": "10.1109/case49997.2022.9926586",
+        "score": 0.4187332002561514,
+        "year": 2022,
+        "venue": "2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)"
+      },
+      {
+        "rank": 3,
+        "title": "From Imitation to Refinement - Residual RL for Precise Visual Assembly",
+        "doi": "10.48550/arxiv.2407.16677",
+        "score": 0.4019027140160546,
+        "year": 2024,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 4,
+        "title": "Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks",
+        "doi": "10.48550/arxiv.2405.01534",
+        "score": 0.38420511812997904,
+        "year": 2024,
+        "venue": "International Conference on Learning Representations"
+      },
+      {
+        "rank": 5,
+        "title": "Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes",
+        "doi": "10.48550/arxiv.2408.03539",
+        "score": 0.3827090907982013,
+        "year": 2024,
+        "venue": "AAAI Conference on Artificial Intelligence"
+      },
+      {
+        "rank": 6,
+        "title": "MPERL: Hardware and Software Co-design for Robotic Manipulators \u00a9",
+        "doi": "10.1109/iros40897.2019.8968188",
+        "score": 0.3768340359234867,
+        "year": 2019,
+        "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems"
+      },
+      {
+        "rank": 7,
+        "title": "RL-based Path Planning for Autonomous Aerial Vehicles in Unknown Environments",
+        "doi": "10.2514/6.2021-3016",
+        "score": 0.37556268802065096,
+        "year": 2021,
+        "venue": "AIAA AVIATION 2021 FORUM"
+      },
+      {
+        "rank": 8,
+        "title": "From the Desks of ROS Maintainers: A Survey of Modern & Capable Mobile Robotics Algorithms in the Robot Operating System 2",
+        "doi": "10.1016/j.robot.2023.104493",
+        "score": 0.3745256363004328,
+        "year": 2023,
+        "venue": "Robotics Auton. Syst."
+      },
+      {
+        "rank": 9,
+        "title": "Comparative Benchmark of Sampling-Based and DRL Motion Planning Methods for Industrial Robotic Arms",
+        "doi": "10.3390/s25175282",
+        "score": 0.3709803971485097,
+        "year": 2025,
+        "venue": "Italian National Conference on Sensors"
+      },
+      {
+        "rank": 10,
+        "title": "SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning",
+        "doi": "10.1109/icra57147.2024.10610040",
+        "score": 0.36712752179592223,
+        "year": 2024,
+        "venue": "IEEE International Conference on Robotics and Automation"
+      }
+    ]
+  },
+  {
+    "query": "computer vision object detection",
+    "category": "Computer Vision",
+    "metrics": {
+      "query": "computer vision object detection",
+      "num_results": 10,
+      "avg_score": 0.5012759567205994,
+      "top_1_score": 0.5509824151053246,
+      "top_5_avg_score": 0.5170851477374618,
+      "score_variance": 0.0004569952717339386,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.5509824151053246,
+        0.5258671120076833,
+        0.51422324928615,
+        0.49925729575727845,
+        0.4950956665308729,
+        0.48799233259757757,
+        0.4873609292570673,
+        0.48725906289213544,
+        0.48347127215076546,
+        0.4812502316211388
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Neural Networks based Object Detection Techniques in Computer Vision",
+        "doi": "10.1109/icirca54612.2022.9985581",
+        "score": 0.5509824151053246,
+        "year": 2022,
+        "venue": "2022 4th International Conference on Inventive Research in Computing Applications (ICIRCA)"
+      },
+      {
+        "rank": 2,
+        "title": "A Survey on Real-Time Object Detection Algorithms",
+        "doi": "10.1109/icaecis58353.2023.10170349",
+        "score": 0.5258671120076833,
+        "year": 2023,
+        "venue": "2023 International Conference on Advances in Electronics, Communication, Computing and Intelligent Information Systems (ICAECIS)"
+      },
+      {
+        "rank": 3,
+        "title": "Performance evaluation of object detection techniques for object detection",
+        "doi": "10.1109/inventive.2016.7830065",
+        "score": 0.51422324928615,
+        "year": 2016,
+        "venue": "International Congress on Information and Communication Technology"
+      },
+      {
+        "rank": 4,
+        "title": "A Review: Object Detection Models",
+        "doi": "10.1109/i2ct51068.2021.9417895",
+        "score": 0.49925729575727845,
+        "year": 2021,
+        "venue": "2021 6th International Conference for Convergence in Technology (I2CT)"
+      },
+      {
+        "rank": 5,
+        "title": "Object Detection in 20 Years: A Survey",
+        "doi": "10.1109/jproc.2023.3238524",
+        "score": 0.4950956665308729,
+        "year": 2019,
+        "venue": "Proceedings of the IEEE"
+      },
+      {
+        "rank": 6,
+        "title": "LIVE OBJECT DETECTION USING OPENCV",
+        "doi": "10.48047/ijiemr/v11/i06/04",
+        "score": 0.48799233259757757,
+        "year": 2022,
+        "venue": "International journal for innovative engineering and management research"
+      },
+      {
+        "rank": 7,
+        "title": "Object detection analysis based on Machine Learning Algorithms",
+        "doi": "10.55041/ijsrem19022",
+        "score": 0.4873609292570673,
+        "year": 2023,
+        "venue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT"
+      },
+      {
+        "rank": 8,
+        "title": "Object Detection: State of the Art and\u00a0Beyond",
+        "doi": "10.1007/978-3-030-71002-6_2",
+        "score": 0.48725906289213544,
+        "year": 2021,
+        "venue": "Intelligent Scene Modeling and Human-Computer Interaction"
+      },
+      {
+        "rank": 9,
+        "title": "Complex Scene Understanding and Object Detection Algorithm Assisted by Artificial Intelligence",
+        "doi": "10.54097/yj0sx977",
+        "score": 0.48347127215076546,
+        "year": 2024,
+        "venue": "Academic Journal of Science and Technology"
+      },
+      {
+        "rank": 10,
+        "title": "Efficient, Simultaneous Detection of Multiple Object Classes",
+        "doi": "10.1109/icpr.2006.487",
+        "score": 0.4812502316211388,
+        "year": 2006,
+        "venue": "International Conference on Pattern Recognition"
+      }
+    ]
+  },
+  {
+    "query": "IoT security cryptography",
+    "category": "Security",
+    "metrics": {
+      "query": "IoT security cryptography",
+      "num_results": 10,
+      "avg_score": 0.48575593825287894,
+      "top_1_score": 0.5001658686616518,
+      "top_5_avg_score": 0.49489445956076744,
+      "score_variance": 0.0001055323163594555,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.5001658686616518,
+        0.5001631599299136,
+        0.4968582883679543,
+        0.49069980950018793,
+        0.48658517134412915,
+        0.4824689502661815,
+        0.4788478032411545,
+        0.47673311576510924,
+        0.4733327269734745,
+        0.4717044884790327
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "SYMMETRIC ENCRYPTION AND CRYPTOGRAPHY ALGORITHMS IN INTERNET OF THINGS",
+        "doi": "10.1590/0101-7438.2025.045.00295986",
+        "score": 0.5001658686616518,
+        "year": 2025,
+        "venue": "Pesquisa Operacional"
+      },
+      {
+        "rank": 2,
+        "title": "Comparative Analysis of Cryptography Library in IoT",
+        "doi": "10.5120/20779-3338",
+        "score": 0.5001631599299136,
+        "year": 2015,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 3,
+        "title": "Performance evaluation on IoT devices secure data delivery processes",
+        "doi": "10.1145/3291533.3291569",
+        "score": 0.4968582883679543,
+        "year": 2018,
+        "venue": "Panhellenic Conference on Informatics"
+      },
+      {
+        "rank": 4,
+        "title": "Blockchain-Based IoT Device Authentication and Cost-Effective Key Management Framework",
+        "doi": "10.1109/ihcsp63227.2024.10960153",
+        "score": 0.49069980950018793,
+        "year": 2024,
+        "venue": "2024 IEEE 2nd International Conference on Innovations in High Speed Communication and Signal Processing (IHCSP)"
+      },
+      {
+        "rank": 5,
+        "title": "Internet of Things: Infrastructure, Architecture, Security and Privacy",
+        "doi": "10.1109/iccecome.2018.8658516",
+        "score": 0.48658517134412915,
+        "year": 2018,
+        "venue": "2018 International Conference on Computing, Electronics & Communications Engineering (iCCECE)"
+      },
+      {
+        "rank": 6,
+        "title": "Biometric Security and Internet of Things (IoT)",
+        "doi": "10.1007/978-3-319-98734-7_19",
+        "score": 0.4824689502661815,
+        "year": 2018,
+        "venue": "Biometric-Based Physical and Cybersecurity Systems"
+      },
+      {
+        "rank": 7,
+        "title": "Security and Privacy of Internet of Things: A Review of Challenges and Solutions",
+        "doi": "10.13052/jcsm2245-1439.1261",
+        "score": 0.4788478032411545,
+        "year": 2023,
+        "venue": "Journal of Cyber Security and Mobility"
+      },
+      {
+        "rank": 8,
+        "title": "Energy Saving Chaotic Sequence Based Encryption, Authentication and Hashing for M2M Communication of IoT Devices",
+        "doi": "10.24425/ijet.2023.144358",
+        "score": 0.47673311576510924,
+        "year": 2023,
+        "venue": "International Journal of Electronics and Telecommunications"
+      },
+      {
+        "rank": 9,
+        "title": "Security Threats and Research Challenges of IoT-A Review",
+        "doi": "10.38032/jea.2020.04.008",
+        "score": 0.4733327269734745,
+        "year": 2020,
+        "venue": "Journal of Engineering Advancements"
+      },
+      {
+        "rank": 10,
+        "title": "Network Security and Internet of Things",
+        "doi": "10.4018/978-1-7998-2803-7.ch010",
+        "score": 0.4717044884790327,
+        "year": 2020,
+        "venue": "Industrial Internet of Things and Cyber-Physical Systems"
+      }
+    ]
+  },
+  {
+    "query": "machine learning optimization algorithms",
+    "category": "ML Theory",
+    "metrics": {
+      "query": "machine learning optimization algorithms",
+      "num_results": 10,
+      "avg_score": 0.43232738202699883,
+      "top_1_score": 0.4703486343380404,
+      "top_5_avg_score": 0.4459252050826349,
+      "score_variance": 0.0003853322363788112,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.4703486343380404,
+        0.46946726913179126,
+        0.43030616550770684,
+        0.43018624935866767,
+        0.4293177070769678,
+        0.42554143426364444,
+        0.4210931173296326,
+        0.41762201243388675,
+        0.4151100673213166,
+        0.4142811635083337
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Machine Learning and Optimization Algorithms in Applied Problems of Wireless Cellular Communications",
+        "doi": "10.3103/s0278641922020029",
+        "score": 0.4703486343380404,
+        "year": 2022,
+        "venue": "Moscow University Computational Mathematics and Cybernetics"
+      },
+      {
+        "rank": 2,
+        "title": "A Survey of Optimization Methods From a Machine Learning Perspective",
+        "doi": "10.1109/tcyb.2019.2950779",
+        "score": 0.46946726913179126,
+        "year": 2019,
+        "venue": "IEEE Transactions on Cybernetics"
+      },
+      {
+        "rank": 3,
+        "title": "Identifying, Mitigating, and Anticipating Bias in Algorithmic Decisions",
+        "doi": "10.1609/aaai.v38i21.30393",
+        "score": 0.43030616550770684,
+        "year": 2024,
+        "venue": "AAAI Conference on Artificial Intelligence"
+      },
+      {
+        "rank": 4,
+        "title": "An Introduction to Bilevel Optimization: Foundations and applications in signal processing and machine learning",
+        "doi": "10.1109/msp.2024.3358284",
+        "score": 0.43018624935866767,
+        "year": 2023,
+        "venue": "IEEE Signal Processing Magazine"
+      },
+      {
+        "rank": 5,
+        "title": "Overcoming the pitfalls and perils of algorithms: A classification of machine learning biases and mitigation methods",
+        "doi": "10.1016/j.jbusres.2022.01.076",
+        "score": 0.4293177070769678,
+        "year": 2022,
+        "venue": "Journal of business research"
+      },
+      {
+        "rank": 6,
+        "title": "The Data Minimization Principle in Machine Learning",
+        "doi": "10.1145/3715275.3732195",
+        "score": 0.42554143426364444,
+        "year": 2024,
+        "venue": "Conference on Fairness, Accountability and Transparency"
+      },
+      {
+        "rank": 7,
+        "title": "A Comparative Theoretical and Empirical Analysis of Machine Learning Algorithms",
+        "doi": "10.14704/web/v17i1/web17011",
+        "score": 0.4210931173296326,
+        "year": 2020,
+        "venue": "Webology"
+      },
+      {
+        "rank": 8,
+        "title": "Toward Intelligent Network Optimization in Wireless Networking: An Auto-Learning Framework",
+        "doi": "10.1109/mwc.2019.1800350",
+        "score": 0.41762201243388675,
+        "year": 2018,
+        "venue": "IEEE wireless communications"
+      },
+      {
+        "rank": 9,
+        "title": "Online machine learning algorithms to optimize performances of complex wireless communication systems.",
+        "doi": "10.3934/mbe.2022097",
+        "score": 0.4151100673213166,
+        "year": 2022,
+        "venue": "Mathematical biosciences and engineering : MBE"
+      },
+      {
+        "rank": 10,
+        "title": "Geometric Optimization in Machine Learning",
+        "doi": "10.1007/978-3-319-45026-1_3",
+        "score": 0.4142811635083337,
+        "year": 2016,
+        "venue": ""
+      }
+    ]
+  },
+  {
+    "query": "recommender systems collaborative filtering",
+    "category": "Recommender Systems",
+    "metrics": {
+      "query": "recommender systems collaborative filtering",
+      "num_results": 10,
+      "avg_score": 0.5146634136995921,
+      "top_1_score": 0.5631635390627132,
+      "top_5_avg_score": 0.5375250581994028,
+      "score_variance": 0.0006436194250857603,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.5631635390627132,
+        0.5351878533255122,
+        0.5324336724827095,
+        0.5314224888418212,
+        0.5254177372842578,
+        0.502589433868884,
+        0.498983335248086,
+        0.4921805411508151,
+        0.4832128664924533,
+        0.48204266923866945
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "A collaborative filtering recommender systems: Survey",
+        "doi": "10.1016/j.neucom.2024.128718",
+        "score": 0.5631635390627132,
+        "year": 2024,
+        "venue": "Neurocomputing"
+      },
+      {
+        "rank": 2,
+        "title": "Fast algorithms to evaluate collaborative filtering recommender systems",
+        "doi": "10.1016/j.knosys.2015.12.025",
+        "score": 0.5351878533255122,
+        "year": 2016,
+        "venue": "Knowledge-Based Systems"
+      },
+      {
+        "rank": 3,
+        "title": "Recommender systems based on collaborative filtering and resource allocation",
+        "doi": "10.1007/s13278-014-0234-0",
+        "score": 0.5324336724827095,
+        "year": 2014,
+        "venue": "Social Network Analysis and Mining"
+      },
+      {
+        "rank": 4,
+        "title": "Recommender Systems and Collaborative Filtering",
+        "doi": "10.3390/app10207050",
+        "score": 0.5314224888418212,
+        "year": 2020,
+        "venue": "Applied Sciences"
+      },
+      {
+        "rank": 5,
+        "title": "Recommender Systems",
+        "doi": "10.1016/j.physrep.2012.02.006",
+        "score": 0.5254177372842578,
+        "year": 2012,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 6,
+        "title": "Content\u2010Based Recommender Systems",
+        "doi": "10.1002/9781119711582.ch9",
+        "score": 0.502589433868884,
+        "year": 2020,
+        "venue": "Recommender System with Machine Learning and Artificial Intelligence"
+      },
+      {
+        "rank": 7,
+        "title": "Recommender Systems: A Primer",
+        "doi": "10.48550/arxiv.2302.02579",
+        "score": 0.498983335248086,
+        "year": 2023,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 8,
+        "title": "A Comprehensive Collaborative Filtering Approach using Autoencoder in Recommender System",
+        "doi": "10.1145/3330482.3330518",
+        "score": 0.4921805411508151,
+        "year": 2019,
+        "venue": "International Conference on Computing and Artificial Intelligence"
+      },
+      {
+        "rank": 9,
+        "title": "Application of a New Collaborative Filtering Algorithm in E-Commerce Product Recommendation",
+        "doi": "10.12677/ecl.2024.133696",
+        "score": 0.4832128664924533,
+        "year": 2024,
+        "venue": "E-Commerce Letters"
+      },
+      {
+        "rank": 10,
+        "title": "Comprehensive Evaluation of Matrix Factorization Models for Collaborative Filtering Recommender Systems",
+        "doi": "10.9781/ijimai.2023.04.008",
+        "score": 0.48204266923866945,
+        "year": 2024,
+        "venue": "Int. J. Interact. Multim. Artif. Intell."
+      }
+    ]
+  },
+  {
+    "query": "graph convolutional networks",
+    "category": "Graph Learning",
+    "metrics": {
+      "query": "graph convolutional networks",
+      "num_results": 10,
+      "avg_score": 0.5114453380399971,
+      "top_1_score": 0.5448502012768509,
+      "top_5_avg_score": 0.5223056033230628,
+      "score_variance": 0.0002110985319068844,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.5448502012768509,
+        0.5285195254031687,
+        0.5195936531071178,
+        0.5106174882208113,
+        0.5079471486073652,
+        0.5035644726098522,
+        0.5024592414041532,
+        0.5020515637142013,
+        0.4975159848378766,
+        0.4973341012185737
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Dynamic Graph Convolutional Networks",
+        "doi": "10.1016/j.patcog.2019.107000",
+        "score": 0.5448502012768509,
+        "year": 2017,
+        "venue": "Pattern Recognition"
+      },
+      {
+        "rank": 2,
+        "title": "Deep Learning with Graph Convolutional Networks: An Overview and Latest Applications in Computational Intelligence",
+        "doi": "10.1155/2023/8342104",
+        "score": 0.5285195254031687,
+        "year": 2023,
+        "venue": "International Journal of Intelligent Systems"
+      },
+      {
+        "rank": 3,
+        "title": "Effects of Graph Convolutions in Deep Networks",
+        "doi": "10.48550/arxiv.2204.09297",
+        "score": 0.5195936531071178,
+        "year": 2022,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 4,
+        "title": "Learning Deep Graph Representations via Convolutional Neural Networks",
+        "doi": "10.1109/tkde.2020.3014089",
+        "score": 0.5106174882208113,
+        "year": 2020,
+        "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+        "rank": 5,
+        "title": "AEGCN: An Autoencoder-Constrained Graph Convolutional Network",
+        "doi": "10.1016/j.neucom.2020.12.061",
+        "score": 0.5079471486073652,
+        "year": 2020,
+        "venue": "Neurocomputing"
+      },
+      {
+        "rank": 6,
+        "title": "From graph convolution networks to graph scattering networks\uff1aa survey",
+        "doi": "10.11834/jig.230069",
+        "score": 0.5035644726098522,
+        "year": 2024,
+        "venue": "Journal of Image and Graphics"
+      },
+      {
+        "rank": 7,
+        "title": "Graph Convolutional Networks for Graphs Containing Missing Features",
+        "doi": "10.1016/j.future.2020.11.016",
+        "score": 0.5024592414041532,
+        "year": 2020,
+        "venue": "Future generations computer systems"
+      },
+      {
+        "rank": 8,
+        "title": "Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification",
+        "doi": "10.1007/978-3-030-46150-8_28",
+        "score": 0.5020515637142013,
+        "year": 2019,
+        "venue": "ECML/PKDD"
+      },
+      {
+        "rank": 9,
+        "title": "Adaptive filters in Graph Convolutional Neural Networks",
+        "doi": "10.1016/j.patcog.2023.109867",
+        "score": 0.4975159848378766,
+        "year": 2021,
+        "venue": "Pattern Recognition"
+      },
+      {
+        "rank": 10,
+        "title": "SSGCN: a sampling sequential guided graph convolutional network",
+        "doi": "10.1007/s13042-023-02013-2",
+        "score": 0.4973341012185737,
+        "year": 2023,
+        "venue": "International Journal of Machine Learning and Cybernetics"
+      }
+    ]
+  },
+  {
+    "query": "attention mechanisms neural networks",
+    "category": "Attention",
+    "metrics": {
+      "query": "attention mechanisms neural networks",
+      "num_results": 10,
+      "avg_score": 0.43514787706446006,
+      "top_1_score": 0.4731343510606179,
+      "top_5_avg_score": 0.44876275834397567,
+      "score_variance": 0.00031791184389196834,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.4731343510606179,
+        0.45925536085098545,
+        0.44182421350335843,
+        0.43492235889819675,
+        0.43467750740671973,
+        0.4326387565695263,
+        0.4223932048413776,
+        0.41931110422406814,
+        0.4185071293159782,
+        0.41481478397377225
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "An Attentive Survey of Attention Models",
+        "doi": "10.1145/3465055",
+        "score": 0.4731343510606179,
+        "year": 2019,
+        "venue": "ACM Transactions on Intelligent Systems and Technology"
+      },
+      {
+        "rank": 2,
+        "title": "A Survey on Attention Mechanisms for Medical Applications: are we Moving Toward Better Algorithms?",
+        "doi": "10.1109/access.2022.3206449",
+        "score": 0.45925536085098545,
+        "year": 2022,
+        "venue": "IEEE Access"
+      },
+      {
+        "rank": 3,
+        "title": "Emotional Attention: From Eye Tracking to Computational Modeling",
+        "doi": "10.1109/tpami.2022.3169234",
+        "score": 0.44182421350335843,
+        "year": 2022,
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+      },
+      {
+        "rank": 4,
+        "title": "Implicit and explicit attention mechanisms for zero-shot learning",
+        "doi": "10.1016/j.neucom.2023.03.009",
+        "score": 0.43492235889819675,
+        "year": 2023,
+        "venue": "Neurocomputing"
+      },
+      {
+        "rank": 5,
+        "title": "Advances in attention mechanisms for medical image segmentation",
+        "doi": "10.1016/j.cosrev.2024.100721",
+        "score": 0.43467750740671973,
+        "year": 2025,
+        "venue": "Computer Science Review"
+      },
+      {
+        "rank": 6,
+        "title": "Bottom-up visual attention model for still image: a preliminary study",
+        "doi": "10.26555/ijain.v6i1.469",
+        "score": 0.4326387565695263,
+        "year": 2020,
+        "venue": ""
+      },
+      {
+        "rank": 7,
+        "title": "On the Anatomy of Attention",
+        "doi": "10.48550/arxiv.2407.02423",
+        "score": 0.4223932048413776,
+        "year": 2024,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 8,
+        "title": "Feature Distillation in Deep Attention Network Against Adversarial Examples",
+        "doi": "10.1109/tnnls.2021.3113342",
+        "score": 0.41931110422406814,
+        "year": 2021,
+        "venue": "IEEE Transactions on Neural Networks and Learning Systems"
+      },
+      {
+        "rank": 9,
+        "title": "The effect and efficiency of attentional networks and the brain electrophysiology",
+        "doi": "10.1007/s00221-023-06712-8",
+        "score": 0.4185071293159782,
+        "year": 2023,
+        "venue": "Experimental Brain Research"
+      },
+      {
+        "rank": 10,
+        "title": "Enhancing U-Net for Semantic Segmentation with Integrated Attention Mechanisms",
+        "doi": "10.1109/ariia63345.2024.11051872",
+        "score": 0.41481478397377225,
+        "year": 2024,
+        "venue": "2024 International Conference on Augmented Reality, Intelligent Systems, and Industrial Automation (ARIIA)"
+      }
+    ]
+  }
+]

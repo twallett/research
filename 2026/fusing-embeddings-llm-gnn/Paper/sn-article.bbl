@@ -1,0 +1,360 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{21}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\url{https://doi.org/#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\bibcommenthead
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem[\protect\citeauthoryear{Lo et~al.}{2020}]{lo2020s2orc}
+\begin{bchapter}
+\bauthor{\bsnm{Lo}, \binits{K.}},
+\bauthor{\bsnm{Wang}, \binits{L.L.}},
+\bauthor{\bsnm{Neumann}, \binits{M.}},
+\bauthor{\bsnm{Kinney}, \binits{R.}},
+\bauthor{\bsnm{Weld}, \binits{D.S.}}:
+\bctitle{S2orc: The semantic scholar open research corpus}.
+In: \bbtitle{Annual Meeting of the Association for Computational Linguistics
+  (ACL)},
+pp. \bfpage{4969}--\blpage{4983}
+(\byear{2020})
+\end{bchapter}
+\endbibitem
+
+%%% 2
+\bibitem[\protect\citeauthoryear{Newman}{2001}]{newman2001structure}
+\begin{barticle}
+\bauthor{\bsnm{Newman}, \binits{M.E.}}:
+\batitle{The structure of scientific collaboration networks}.
+\bjtitle{Proceedings of the National Academy of Sciences}
+\bvolume{98}(\bissue{2}),
+\bfpage{404}--\blpage{409}
+(\byear{2001})
+\end{barticle}
+\endbibitem
+
+%%% 3
+\bibitem[\protect\citeauthoryear{Wu et~al.}{2021}]{wu2019comprehensive}
+\begin{barticle}
+\bauthor{\bsnm{Wu}, \binits{Z.}},
+\bauthor{\bsnm{Pan}, \binits{S.}},
+\bauthor{\bsnm{Chen}, \binits{F.}},
+\bauthor{\bsnm{Long}, \binits{G.}},
+\bauthor{\bsnm{Zhang}, \binits{C.}},
+\bauthor{\bsnm{Yu}, \binits{P.S.}}:
+\batitle{A comprehensive survey on graph neural networks}.
+\bjtitle{IEEE Transactions on Neural Networks and Learning Systems}
+\bvolume{32}(\bissue{1}),
+\bfpage{4}--\blpage{24}
+(\byear{2021})
+\end{barticle}
+\endbibitem
+
+%%% 4
+\bibitem[\protect\citeauthoryear{Zhou et~al.}{2020}]{zhou2020graph}
+\begin{barticle}
+\bauthor{\bsnm{Zhou}, \binits{J.}},
+\bauthor{\bsnm{Cui}, \binits{G.}},
+\bauthor{\bsnm{Hu}, \binits{S.}},
+\bauthor{\bsnm{Zhang}, \binits{Z.}},
+\bauthor{\bsnm{Yang}, \binits{C.}},
+\bauthor{\bsnm{Liu}, \binits{Z.}},
+\bauthor{\bsnm{Wang}, \binits{L.}},
+\bauthor{\bsnm{Li}, \binits{C.}},
+\bauthor{\bsnm{Sun}, \binits{M.}}:
+\batitle{Graph neural networks: A review of methods and applications}.
+\bjtitle{AI Open}
+\bvolume{1},
+\bfpage{57}--\blpage{81}
+(\byear{2020})
+\end{barticle}
+\endbibitem
+
+%%% 5
+\bibitem[\protect\citeauthoryear{Vaswani et~al.}{2017}]{vaswani2017attention}
+\begin{botherref}
+\oauthor{\bsnm{Vaswani}, \binits{A.}},
+\oauthor{\bsnm{Shazeer}, \binits{N.}},
+\oauthor{\bsnm{Parmar}, \binits{N.}},
+\oauthor{\bsnm{Uszkoreit}, \binits{J.}},
+\oauthor{\bsnm{Jones}, \binits{L.}},
+\oauthor{\bsnm{Gomez}, \binits{A.N.}},
+\oauthor{\bsnm{Kaiser}, \binits{{\L}.}},
+\oauthor{\bsnm{Polosukhin}, \binits{I.}}:
+Attention is all you need.
+Advances in Neural Information Processing Systems (NeurIPS)
+\textbf{30}
+(2017)
+\end{botherref}
+\endbibitem
+
+%%% 6
+\bibitem[\protect\citeauthoryear{Reimers and
+  Gurevych}{2019}]{reimers2019sentence}
+\begin{bchapter}
+\bauthor{\bsnm{Reimers}, \binits{N.}},
+\bauthor{\bsnm{Gurevych}, \binits{I.}}:
+\bctitle{Sentence-bert: Sentence embeddings using siamese bert-networks}.
+In: \bbtitle{Conference on Empirical Methods in Natural Language Processing
+  (EMNLP)},
+pp. \bfpage{3982}--\blpage{3992}
+(\byear{2019})
+\end{bchapter}
+\endbibitem
+
+%%% 7
+\bibitem[\protect\citeauthoryear{Kipf and Welling}{2017}]{kipf2017semi}
+\begin{bchapter}
+\bauthor{\bsnm{Kipf}, \binits{T.N.}},
+\bauthor{\bsnm{Welling}, \binits{M.}}:
+\bctitle{Semi-supervised classification with graph convolutional networks}.
+In: \bbtitle{International Conference on Learning Representations (ICLR)}
+(\byear{2017})
+\end{bchapter}
+\endbibitem
+
+%%% 8
+\bibitem[\protect\citeauthoryear{Veli{\v{c}}kovi{\'c}
+  et~al.}{2018}]{veličković2018graph}
+\begin{bchapter}
+\bauthor{\bsnm{Veli{\v{c}}kovi{\'c}}, \binits{P.}},
+\bauthor{\bsnm{Cucurull}, \binits{G.}},
+\bauthor{\bsnm{Casanova}, \binits{A.}},
+\bauthor{\bsnm{Romero}, \binits{A.}},
+\bauthor{\bsnm{Li{\`o}}, \binits{P.}},
+\bauthor{\bsnm{Bengio}, \binits{Y.}}:
+\bctitle{Graph attention networks}.
+In: \bbtitle{International Conference on Learning Representations (ICLR)}
+(\byear{2018})
+\end{bchapter}
+\endbibitem
+
+%%% 9
+\bibitem[\protect\citeauthoryear{Hamilton et~al.}{2017}]{hamilton2017inductive}
+\begin{bchapter}
+\bauthor{\bsnm{Hamilton}, \binits{W.L.}},
+\bauthor{\bsnm{Ying}, \binits{R.}},
+\bauthor{\bsnm{Leskovec}, \binits{J.}}:
+\bctitle{Inductive representation learning on large graphs}.
+In: \bbtitle{Advances in Neural Information Processing Systems (NeurIPS)},
+vol. \bseriesno{30}
+(\byear{2017})
+\end{bchapter}
+\endbibitem
+
+%%% 10
+\bibitem[\protect\citeauthoryear{Khemani et~al.}{2024}]{khemani2024review}
+\begin{barticle}
+\bauthor{\bsnm{Khemani}, \binits{B.}},
+\bauthor{\bsnm{Patil}, \binits{S.}},
+\bauthor{\bsnm{Kotecha}, \binits{K.}},
+\bauthor{\bsnm{Tanwar}, \binits{S.}}:
+\batitle{A review of graph neural networks: Concepts, architectures,
+  techniques, challenges, datasets, applications, and future directions}.
+\bjtitle{Journal of Big Data}
+\bvolume{11}(\bissue{1}),
+\bfpage{18}
+(\byear{2024})
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem[\protect\citeauthoryear{Le and Mikolov}{2014}]{doc2vec}
+\begin{bchapter}
+\bauthor{\bsnm{Le}, \binits{Q.}},
+\bauthor{\bsnm{Mikolov}, \binits{T.}}:
+\bctitle{Distributed representations of sentences and documents}.
+In: \bbtitle{International Conference on Machine Learning (ICML)},
+pp. \bfpage{1188}--\blpage{1196}
+(\byear{2014})
+\end{bchapter}
+\endbibitem
+
+%%% 12
+\bibitem[\protect\citeauthoryear{Ganguly and Pudi}{2017}]{paper2vec}
+\begin{bchapter}
+\bauthor{\bsnm{Ganguly}, \binits{S.}},
+\bauthor{\bsnm{Pudi}, \binits{V.}}:
+\bctitle{Paper2vec: Combining graph and text information for scientific paper
+  representation}.
+In: \bbtitle{European Conference on Information Retrieval},
+pp. \bfpage{383}--\blpage{395}.
+\bpublisher{Springer}, \blocation{???}
+(\byear{2017})
+\end{bchapter}
+\endbibitem
+
+%%% 13
+\bibitem[\protect\citeauthoryear{Ebesu and Fang}{2017}]{bm25_ncn}
+\begin{bchapter}
+\bauthor{\bsnm{Ebesu}, \binits{T.}},
+\bauthor{\bsnm{Fang}, \binits{Y.}}:
+\bctitle{Neural citation network for context-aware citation recommendation}.
+In: \bbtitle{International ACM SIGIR Conference on Research and Development in
+  Information Retrieval},
+pp. \bfpage{1093}--\blpage{1096}
+(\byear{2017})
+\end{bchapter}
+\endbibitem
+
+%%% 14
+\bibitem[\protect\citeauthoryear{Beel et~al.}{2017}]{hyperdoc2vec}
+\begin{bchapter}
+\bauthor{\bsnm{Beel}, \binits{J.}},
+\bauthor{\bsnm{Langer}, \binits{S.}},
+\bauthor{\bsnm{Genzmehr}, \binits{M.}},
+\bauthor{\bsnm{N{\"u}rnberger}, \binits{A.}}:
+\bctitle{Hyperdoc2vec: Distributed representations of hypertext documents}.
+In: \bbtitle{ACM/IEEE Joint Conference on Digital Libraries},
+pp. \bfpage{99}--\blpage{100}
+(\byear{2017})
+\end{bchapter}
+\endbibitem
+
+%%% 15
+\bibitem[\protect\citeauthoryear{Jeong et~al.}{2020}]{crosslang}
+\begin{bchapter}
+\bauthor{\bsnm{Jeong}, \binits{C.}},
+\bauthor{\bsnm{Jang}, \binits{S.}},
+\bauthor{\bsnm{Park}, \binits{H.}},
+\bauthor{\bsnm{Choi}, \binits{S.}}:
+\bctitle{Cross-language citation recommendation via hierarchical representation
+  learning on heterogeneous graph}.
+In: \bbtitle{International ACM SIGIR Conference on Research and Development in
+  Information Retrieval},
+pp. \bfpage{1508}--\blpage{1512}
+(\byear{2020})
+\end{bchapter}
+\endbibitem
+
+%%% 16
+\bibitem[\protect\citeauthoryear{Hu et~al.}{2020}]{hgt}
+\begin{bchapter}
+\bauthor{\bsnm{Hu}, \binits{Z.}},
+\bauthor{\bsnm{Dong}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{K.}},
+\bauthor{\bsnm{Sun}, \binits{Y.}}:
+\bctitle{Heterogeneous graph transformer}.
+In: \bbtitle{The Web Conference (WWW)},
+pp. \bfpage{2704}--\blpage{2710}
+(\byear{2020})
+\end{bchapter}
+\endbibitem
+
+%%% 17
+\bibitem[\protect\citeauthoryear{Shen et~al.}{2024}]{shen2024temporal}
+\begin{botherref}
+\oauthor{\bsnm{Shen}, \binits{J.}},
+\oauthor{\bsnm{Xie}, \binits{Q.}},
+\oauthor{\bsnm{Wei}, \binits{Z.}},
+\oauthor{\bsnm{Yin}, \binits{Y.}},
+\oauthor{\bsnm{Liu}, \binits{S.}},
+\oauthor{\bsnm{Wang}, \binits{W.}}:
+Temporal graph neural network-powered paper recommendation on dynamic citation
+  networks.
+arXiv preprint arXiv:2408.15371
+(2024)
+\end{botherref}
+\endbibitem
+
+%%% 18
+\bibitem[\protect\citeauthoryear{Kumar et~al.}{2023}]{hybrid2023bert}
+\begin{botherref}
+\oauthor{\bsnm{Kumar}, \binits{A.}},
+\oauthor{\bsnm{Singh}, \binits{R.}},
+\oauthor{\bsnm{Patel}, \binits{V.}}:
+Hybrid recommendation system using graph neural network and bert embeddings.
+arXiv preprint arXiv:2310.04878
+(2023)
+\end{botherref}
+\endbibitem
+
+%%% 19
+\bibitem[\protect\citeauthoryear{Liu et~al.}{2025}]{liu2025lgkat}
+\begin{barticle}
+\bauthor{\bsnm{Liu}, \binits{X.}},
+\bauthor{\bsnm{Zhang}, \binits{W.}},
+\bauthor{\bsnm{Chen}, \binits{H.}}:
+\batitle{A novel recommender system using light graph convolutional network and
+  personalized knowledge-aware attention sub-network}.
+\bjtitle{Scientific Reports}
+\bvolume{15}(\bissue{1}),
+\bfpage{1823}
+(\byear{2025})
+\end{barticle}
+\endbibitem
+
+%%% 20
+\bibitem[\protect\citeauthoryear{Gao et~al.}{2022}]{gao2022graph}
+\begin{barticle}
+\bauthor{\bsnm{Gao}, \binits{C.}},
+\bauthor{\bsnm{Zheng}, \binits{Y.}},
+\bauthor{\bsnm{Li}, \binits{N.}},
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Qin}, \binits{Y.}},
+\bauthor{\bsnm{Piao}, \binits{J.}},
+\bauthor{\bsnm{Quan}, \binits{Y.}},
+\bauthor{\bsnm{Chang}, \binits{J.}},
+\bauthor{\bsnm{Jin}, \binits{D.}},
+\bauthor{\bsnm{He}, \binits{X.}},
+\bauthor{\bsnm{Li}, \binits{Y.}}:
+\batitle{Graph neural networks in recommender systems: A survey}.
+\bjtitle{ACM Computing Surveys}
+\bvolume{55}(\bissue{5}),
+\bfpage{1}--\blpage{37}
+(\byear{2022})
+\end{barticle}
+\endbibitem
+
+%%% 21
+\bibitem[\protect\citeauthoryear{Manning
+  et~al.}{2008}]{manning2008introduction}
+\begin{botherref}
+\oauthor{\bsnm{Manning}, \binits{C.D.}},
+\oauthor{\bsnm{Raghavan}, \binits{P.}},
+\oauthor{\bsnm{Sch{\"u}tze}, \binits{H.}}:
+Introduction to information retrieval.
+Cambridge University Press
+(2008)
+\end{botherref}
+\endbibitem
+
+\end{thebibliography}

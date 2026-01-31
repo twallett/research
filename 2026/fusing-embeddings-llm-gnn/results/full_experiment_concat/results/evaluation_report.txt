@@ -1,0 +1,115 @@
+================================================================================
+PAPER RECOMMENDATION SYSTEM - EVALUATION REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Number of test queries: 10
+Average Top-1 Score: 0.3853
+Average Score: 0.3516
+Average Top-5 Score: 0.3633
+Queries with relevant results: 10/10
+
+PER-QUERY RESULTS
+--------------------------------------------------------------------------------
+
+Query: deep learning neural networks
+Category: Deep Learning
+  Top-1 Score: 0.3566
+  Avg Score: 0.3333
+  Top-3 Papers:
+    1. [0.3566] Neural Networks and Deep Learning
+    2. [0.3435] Deep Learning Techniques and Applications
+    3. [0.3417] Wide and deep neural networks achieve consistency for classification
+
+Query: graph neural networks for molecular property prediction
+Category: GNN Applications
+  Top-1 Score: 0.4821
+  Avg Score: 0.4391
+  Top-3 Papers:
+    1. [0.4821] Applying Graph Neural Network Models to Molecular Property Prediction Using High-quality Experimental Data
+    2. [0.4681] Graph neural networks with molecular segmentation for property prediction and structure-property relationship discovery
+    3. [0.4551] Graph neural networks for the prediction of molecular structure-property relationships
+
+Query: natural language processing transformers
+Category: NLP
+  Top-1 Score: 0.4265
+  Avg Score: 0.3856
+  Top-3 Papers:
+    1. [0.4265] Transformers in the Real World: A Survey on NLP Applications
+    2. [0.4043] A Survey on Transformers in NLP with Focus on Efficiency
+    3. [0.3937] Linguistic Feature Injection for Efficient Natural Language Processing
+
+Query: RL for robotics
+Category: Robotics & RL
+  Top-1 Score: 0.3483
+  Avg Score: 0.2855
+  Top-3 Papers:
+    1. [0.3483] RSL-RL: A Learning Library for Robotics Research
+    2. [0.3089] FRobs_RL: A Flexible Robotics Reinforcement Learning Library
+    3. [0.2850] Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes
+
+Query: computer vision object detection
+Category: Computer Vision
+  Top-1 Score: 0.3481
+  Avg Score: 0.3106
+  Top-3 Papers:
+    1. [0.3481] Neural Networks based Object Detection Techniques in Computer Vision
+    2. [0.3335] A Survey on Real-Time Object Detection Algorithms
+    3. [0.3163] A Review: Object Detection Models
+
+Query: IoT security cryptography
+Category: Security
+  Top-1 Score: 0.3621
+  Avg Score: 0.3506
+  Top-3 Papers:
+    1. [0.3621] Blockchain-Based IoT Device Authentication and Cost-Effective Key Management Framework
+    2. [0.3617] Comparative Analysis of Cryptography Library in IoT
+    3. [0.3595] SYMMETRIC ENCRYPTION AND CRYPTOGRAPHY ALGORITHMS IN INTERNET OF THINGS
+
+Query: machine learning optimization algorithms
+Category: ML Theory
+  Top-1 Score: 0.3611
+  Avg Score: 0.3200
+  Top-3 Papers:
+    1. [0.3611] A Survey of Optimization Methods From a Machine Learning Perspective
+    2. [0.3316] A systematic review of the machine learning algorithms for the computational analysis in different domains
+    3. [0.3293] A Comparative Theoretical and Empirical Analysis of Machine Learning Algorithms
+
+Query: recommender systems collaborative filtering
+Category: Recommender Systems
+  Top-1 Score: 0.3994
+  Avg Score: 0.3737
+  Top-3 Papers:
+    1. [0.3994] A collaborative filtering recommender systems: Survey
+    2. [0.3890] Recommender Systems and Collaborative Filtering
+    3. [0.3834] Recommender systems based on collaborative filtering and resource allocation
+
+Query: graph convolutional networks
+Category: Graph Learning
+  Top-1 Score: 0.4179
+  Avg Score: 0.3946
+  Top-3 Papers:
+    1. [0.4179] Dynamic Graph Convolutional Networks
+    2. [0.4077] Effects of Graph Convolutions in Deep Networks
+    3. [0.4029] Deep Learning with Graph Convolutional Networks: An Overview and Latest Applications in Computational Intelligence
+
+Query: attention mechanisms neural networks
+Category: Attention
+  Top-1 Score: 0.3506
+  Avg Score: 0.3234
+  Top-3 Papers:
+    1. [0.3506] An Attentive Survey of Attention Models
+    2. [0.3469] A Survey on Attention Mechanisms for Medical Applications: are we Moving Toward Better Algorithms?
+    3. [0.3255] Advances in attention mechanisms for medical image segmentation
+
+================================================================================
+GNN vs SEMANTIC-ONLY COMPARISON
+================================================================================
+Average GNN+Semantic Score: 0.3516
+Average Semantic-only Score: 0.6844
+Average Improvement: -48.68%
+Average Top-5 Overlap: 3.6/5
+Average Top-10 Overlap: 8.0/10
+
+================================================================================

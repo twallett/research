@@ -1,0 +1,82 @@
+[
+  {
+    "query": "deep learning neural networks",
+    "gnn_semantic_avg_score": 0.4370197547370115,
+    "semantic_only_avg_score": 0.6183801396831287,
+    "improvement": -29.328299920210917,
+    "overlap_top_5": 1,
+    "overlap_top_10": 5
+  },
+  {
+    "query": "graph neural networks for molecular property prediction",
+    "gnn_semantic_avg_score": 0.5806794211665263,
+    "semantic_only_avg_score": 0.8317064942965416,
+    "improvement": -30.18217025275453,
+    "overlap_top_5": 5,
+    "overlap_top_10": 9
+  },
+  {
+    "query": "natural language processing transformers",
+    "gnn_semantic_avg_score": 0.527669541972469,
+    "semantic_only_avg_score": 0.7176480889723486,
+    "improvement": -26.472382114844784,
+    "overlap_top_5": 5,
+    "overlap_top_10": 10
+  },
+  {
+    "query": "RL for robotics",
+    "gnn_semantic_avg_score": 0.39461553816872585,
+    "semantic_only_avg_score": 0.5838393680655296,
+    "improvement": -32.410254773114225,
+    "overlap_top_5": 3,
+    "overlap_top_10": 9
+  },
+  {
+    "query": "computer vision object detection",
+    "gnn_semantic_avg_score": 0.5012759567205994,
+    "semantic_only_avg_score": 0.6610907726170825,
+    "improvement": -24.174412970003715,
+    "overlap_top_5": 4,
+    "overlap_top_10": 8
+  },
+  {
+    "query": "IoT security cryptography",
+    "gnn_semantic_avg_score": 0.48575593825287894,
+    "semantic_only_avg_score": 0.6880035133450995,
+    "improvement": -29.396299325457676,
+    "overlap_top_5": 4,
+    "overlap_top_10": 7
+  },
+  {
+    "query": "machine learning optimization algorithms",
+    "gnn_semantic_avg_score": 0.43232738202699883,
+    "semantic_only_avg_score": 0.6674895785088385,
+    "improvement": -35.230841129250926,
+    "overlap_top_5": 1,
+    "overlap_top_10": 2
+  },
+  {
+    "query": "recommender systems collaborative filtering",
+    "gnn_semantic_avg_score": 0.5146634136995921,
+    "semantic_only_avg_score": 0.72384825439892,
+    "improvement": -28.89899043593534,
+    "overlap_top_5": 5,
+    "overlap_top_10": 10
+  },
+  {
+    "query": "graph convolutional networks",
+    "gnn_semantic_avg_score": 0.5114453380399971,
+    "semantic_only_avg_score": 0.7525170575597108,
+    "improvement": -32.03538230720395,
+    "overlap_top_5": 3,
+    "overlap_top_10": 7
+  },
+  {
+    "query": "attention mechanisms neural networks",
+    "gnn_semantic_avg_score": 0.43514787706446006,
+    "semantic_only_avg_score": 0.5996594945203659,
+    "improvement": -27.43417159501032,
+    "overlap_top_5": 3,
+    "overlap_top_10": 7
+  }
+]

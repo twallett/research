@@ -1,0 +1,188 @@
+[
+  {
+    "query": "deep learning neural networks",
+    "category": "Deep Learning",
+    "metrics": {
+      "query": "deep learning neural networks",
+      "num_results": 5,
+      "avg_score": 0.6513464378650251,
+      "top_1_score": 0.6687514413682082,
+      "top_5_avg_score": 0.6513464378650251,
+      "score_variance": 8.057480393977501e-05,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.6687514413682082,
+        0.6502314620069589,
+        0.648189203943524,
+        0.6458966071813689,
+        0.6436634748250651
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Towards a deep learning model for hadronization",
+        "doi": "10.1103/physrevd.106.096020",
+        "score": 0.6687514413682082,
+        "year": 2022,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 2,
+        "title": "Unifying simulation and inference with normalizing flows",
+        "doi": "10.1103/physrevd.111.076004",
+        "score": 0.6502314620069589,
+        "year": 2024,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 3,
+        "title": "How to understand limitations of generative networks",
+        "doi": "10.21468/scipostphys.16.1.031",
+        "score": 0.648189203943524,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 4,
+        "title": "BitHEP - The Limits of Low-Precision ML in HEP",
+        "doi": "10.48550/arxiv.2504.03387",
+        "score": 0.6458966071813689,
+        "year": 2025,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 5,
+        "title": "Particle-based fast jet simulation at the LHC with variational autoencoders",
+        "doi": "10.1088/2632-2153/ac7c56",
+        "score": 0.6436634748250651,
+        "year": 2022,
+        "venue": "Machine Learning: Science and Technology"
+      }
+    ]
+  },
+  {
+    "query": "graph neural networks for molecular property prediction",
+    "category": "GNN Applications",
+    "metrics": {
+      "query": "graph neural networks for molecular property prediction",
+      "num_results": 5,
+      "avg_score": 0.5231902136182709,
+      "top_1_score": 0.5494085268328619,
+      "top_5_avg_score": 0.5231902136182709,
+      "score_variance": 0.00028257822143474534,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.5494085268328619,
+        0.5298324304494958,
+        0.5268235868510587,
+        0.5060082093061936,
+        0.503878314651744
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Set-conditional set generation for particle physics",
+        "doi": "10.1088/2632-2153/ad035b",
+        "score": 0.5494085268328619,
+        "year": 2022,
+        "venue": "Machine Learning: Science and Technology"
+      },
+      {
+        "rank": 2,
+        "title": "How to understand limitations of generative networks",
+        "doi": "10.21468/scipostphys.16.1.031",
+        "score": 0.5298324304494958,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 3,
+        "title": "Towards a deep learning model for hadronization",
+        "doi": "10.1103/physrevd.106.096020",
+        "score": 0.5268235868510587,
+        "year": 2022,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 4,
+        "title": "Generative Networks for Precision Enthusiasts",
+        "doi": "10.21468/scipostphys.14.4.078",
+        "score": 0.5060082093061936,
+        "year": 2021,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 5,
+        "title": "BitHEP - The Limits of Low-Precision ML in HEP",
+        "doi": "10.48550/arxiv.2504.03387",
+        "score": 0.503878314651744,
+        "year": 2025,
+        "venue": "arXiv.org"
+      }
+    ]
+  },
+  {
+    "query": "natural language processing transformers",
+    "category": "NLP",
+    "metrics": {
+      "query": "natural language processing transformers",
+      "num_results": 5,
+      "avg_score": 0.674758167545377,
+      "top_1_score": 0.7016044512401276,
+      "top_5_avg_score": 0.674758167545377,
+      "score_variance": 0.00025937252904867326,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.7016044512401276,
+        0.6783669101459026,
+        0.6774976379324573,
+        0.659689753869606,
+        0.6566320845387913
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Synergizing Machine Learning & Symbolic Methods: A Survey on Hybrid Approaches to Natural Language Processing",
+        "doi": "10.48550/arxiv.2401.11972",
+        "score": 0.7016044512401276,
+        "year": 2024,
+        "venue": "Expert systems with applications"
+      },
+      {
+        "rank": 2,
+        "title": "Argument Relation Classification through Discourse Markers and Adversarial Training",
+        "doi": "10.18653/v1/2024.emnlp-main.1054",
+        "score": 0.6783669101459026,
+        "year": 2024,
+        "venue": "Conference on Empirical Methods in Natural Language Processing"
+      },
+      {
+        "rank": 3,
+        "title": "Uncovering Implicit Inferences for Improved Relational Argument Mining",
+        "doi": "10.18653/v1/2023.eacl-main.182",
+        "score": 0.6774976379324573,
+        "year": 2023,
+        "venue": "Conference of the European Chapter of the Association for Computational Linguistics"
+      },
+      {
+        "rank": 4,
+        "title": "A multi-task approach to argument frame classification at variable granularity levels",
+        "doi": "10.1515/itit-2020-0054",
+        "score": 0.659689753869606,
+        "year": 2021,
+        "venue": "it - Information Technology"
+      },
+      {
+        "rank": 5,
+        "title": "Identifying arguments within a text: Categorizing errors and their impact in arguments' relation prediction",
+        "doi": "10.1016/j.ijar.2024.109267",
+        "score": 0.6566320845387913,
+        "year": 2024,
+        "venue": "International Journal of Approximate Reasoning"
+      }
+    ]
+  }
+]

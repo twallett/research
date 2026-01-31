@@ -1,0 +1,1072 @@
+[
+  {
+    "query": "deep learning neural networks",
+    "category": "Deep Learning",
+    "metrics": {
+      "query": "deep learning neural networks",
+      "num_results": 10,
+      "avg_score": 0.6413473357957953,
+      "top_1_score": 0.6721692909089186,
+      "top_5_avg_score": 0.6514249486078918,
+      "score_variance": 0.000158593211835833,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.6721692909089186,
+        0.6492100526945921,
+        0.6480966620496835,
+        0.6449177474263881,
+        0.6427309899598765,
+        0.632520168502657,
+        0.6320621661821897,
+        0.6316446997609547,
+        0.6307144403197693,
+        0.6294071401529223
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Towards a deep learning model for hadronization",
+        "doi": "10.1103/physrevd.106.096020",
+        "score": 0.6721692909089186,
+        "year": 2022,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 2,
+        "title": "How to understand limitations of generative networks",
+        "doi": "10.21468/scipostphys.16.1.031",
+        "score": 0.6492100526945921,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 3,
+        "title": "Unifying simulation and inference with normalizing flows",
+        "doi": "10.1103/physrevd.111.076004",
+        "score": 0.6480966620496835,
+        "year": 2024,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 4,
+        "title": "Ephemeral Learning - Augmenting Triggers with Online-Trained Normalizing Flows",
+        "doi": "10.21468/scipostphys.13.4.087",
+        "score": 0.6449177474263881,
+        "year": 2022,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 5,
+        "title": "Particle-based fast jet simulation at the LHC with variational autoencoders",
+        "doi": "10.1088/2632-2153/ac7c56",
+        "score": 0.6427309899598765,
+        "year": 2022,
+        "venue": "Machine Learning: Science and Technology"
+      },
+      {
+        "rank": 6,
+        "title": "CaloMan: Fast generation of calorimeter showers with density estimation on learned manifolds",
+        "doi": "10.48550/arxiv.2211.15380",
+        "score": 0.632520168502657,
+        "year": 2022,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 7,
+        "title": "Hadrons, better, faster, stronger",
+        "doi": "10.1088/2632-2153/ac7848",
+        "score": 0.6320621661821897,
+        "year": 2021,
+        "venue": "Machine Learning: Science and Technology"
+      },
+      {
+        "rank": 8,
+        "title": "Meta-learning for multiple detector geometry modeling",
+        "doi": "10.1088/1742-6596/2438/1/012102",
+        "score": 0.6316446997609547,
+        "year": 2023,
+        "venue": "Journal of Physics: Conference Series"
+      },
+      {
+        "rank": 9,
+        "title": "Flowification: Everything is a Normalizing Flow",
+        "doi": "10.48550/arxiv.2205.15209",
+        "score": 0.6307144403197693,
+        "year": 2022,
+        "venue": "Neural Information Processing Systems"
+      },
+      {
+        "rank": 10,
+        "title": "Generative Networks for Precision Enthusiasts",
+        "doi": "10.21468/scipostphys.14.4.078",
+        "score": 0.6294071401529223,
+        "year": 2021,
+        "venue": "SciPost Physics"
+      }
+    ]
+  },
+  {
+    "query": "graph neural networks for molecular property prediction",
+    "category": "GNN Applications",
+    "metrics": {
+      "query": "graph neural networks for molecular property prediction",
+      "num_results": 10,
+      "avg_score": 0.4626403864306467,
+      "top_1_score": 0.5605468631867031,
+      "top_5_avg_score": 0.48351600086108776,
+      "score_variance": 0.001244480496884177,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.5605468631867031,
+        0.4721520383610721,
+        0.4698928312609625,
+        0.46210973011683365,
+        0.4528785413798672,
+        0.45267296879266244,
+        0.45217955884076166,
+        0.43845752948416256,
+        0.4372761843594142,
+        0.4282376185240281
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks",
+        "doi": "10.1145/3711896.3736559",
+        "score": 0.5605468631867031,
+        "year": 2025,
+        "venue": "KDD : proceedings. International Conference on Knowledge Discovery & Data Mining"
+      },
+      {
+        "rank": 2,
+        "title": "Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network",
+        "doi": "10.1145/3543507.3583287",
+        "score": 0.4721520383610721,
+        "year": 2023,
+        "venue": "The Web Conference"
+      },
+      {
+        "rank": 3,
+        "title": "Set-conditional set generation for particle physics",
+        "doi": "10.1088/2632-2153/ad035b",
+        "score": 0.4698928312609625,
+        "year": 2022,
+        "venue": "Machine Learning: Science and Technology"
+      },
+      {
+        "rank": 4,
+        "title": "Homophily-oriented Heterogeneous Graph Rewiring",
+        "doi": "10.1145/3543507.3583454",
+        "score": 0.46210973011683365,
+        "year": 2023,
+        "venue": "The Web Conference"
+      },
+      {
+        "rank": 5,
+        "title": "Towards a deep learning model for hadronization",
+        "doi": "10.1103/physrevd.106.096020",
+        "score": 0.4528785413798672,
+        "year": 2022,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 6,
+        "title": "Do We Need an Encoder-Decoder to Model Dynamical Systems on Networks?",
+        "doi": "10.48550/arxiv.2305.12185",
+        "score": 0.45267296879266244,
+        "year": 2023,
+        "venue": "International Joint Conference on Artificial Intelligence"
+      },
+      {
+        "rank": 7,
+        "title": "How to understand limitations of generative networks",
+        "doi": "10.21468/scipostphys.16.1.031",
+        "score": 0.45217955884076166,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 8,
+        "title": "TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems",
+        "doi": "10.1145/3626772.3657721",
+        "score": 0.43845752948416256,
+        "year": 2023,
+        "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval"
+      },
+      {
+        "rank": 9,
+        "title": "On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering",
+        "doi": "10.1145/3580305.3599450",
+        "score": 0.4372761843594142,
+        "year": 2023,
+        "venue": "Knowledge Discovery and Data Mining"
+      },
+      {
+        "rank": 10,
+        "title": "Generative Networks for Precision Enthusiasts",
+        "doi": "10.21468/scipostphys.14.4.078",
+        "score": 0.4282376185240281,
+        "year": 2021,
+        "venue": "SciPost Physics"
+      }
+    ]
+  },
+  {
+    "query": "natural language processing transformers",
+    "category": "NLP",
+    "metrics": {
+      "query": "natural language processing transformers",
+      "num_results": 10,
+      "avg_score": 0.6124446552304466,
+      "top_1_score": 0.6717607036243134,
+      "top_5_avg_score": 0.6291926007635273,
+      "score_variance": 0.000546372553109442,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.6717607036243134,
+        0.6288537787658214,
+        0.6268403059889454,
+        0.6094324286971817,
+        0.6090757867413746,
+        0.5987588571375748,
+        0.5980897115409283,
+        0.5970503577493168,
+        0.5939998279686006,
+        0.5905847940904096
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Synergizing Machine Learning & Symbolic Methods: A Survey on Hybrid Approaches to Natural Language Processing",
+        "doi": "10.48550/arxiv.2401.11972",
+        "score": 0.6717607036243134,
+        "year": 2024,
+        "venue": "Expert systems with applications"
+      },
+      {
+        "rank": 2,
+        "title": "Argument Relation Classification through Discourse Markers and Adversarial Training",
+        "doi": "10.18653/v1/2024.emnlp-main.1054",
+        "score": 0.6288537787658214,
+        "year": 2024,
+        "venue": "Conference on Empirical Methods in Natural Language Processing"
+      },
+      {
+        "rank": 3,
+        "title": "Uncovering Implicit Inferences for Improved Relational Argument Mining",
+        "doi": "10.18653/v1/2023.eacl-main.182",
+        "score": 0.6268403059889454,
+        "year": 2023,
+        "venue": "Conference of the European Chapter of the Association for Computational Linguistics"
+      },
+      {
+        "rank": 4,
+        "title": "A multi-task approach to argument frame classification at variable granularity levels",
+        "doi": "10.1515/itit-2020-0054",
+        "score": 0.6094324286971817,
+        "year": 2021,
+        "venue": "it - Information Technology"
+      },
+      {
+        "rank": 5,
+        "title": "A neural network to identify requests, decisions, and arguments in court rulings on custody",
+        "doi": "10.1007/s10506-023-09380-9",
+        "score": 0.6090757867413746,
+        "year": 2024,
+        "venue": "Artificial Intelligence and Law"
+      },
+      {
+        "rank": 6,
+        "title": "TACAM: Topic And Context Aware Argument Mining",
+        "doi": "10.1145/3350546.3352506",
+        "score": 0.5987588571375748,
+        "year": 2019,
+        "venue": "International Conference on Wirtschaftsinformatik"
+      },
+      {
+        "rank": 7,
+        "title": "Towards a Holistic View on Argument Quality Prediction",
+        "doi": "10.48550/arxiv.2205.09803",
+        "score": 0.5980897115409283,
+        "year": 2022,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 8,
+        "title": "Identifying arguments within a text: Categorizing errors and their impact in arguments' relation prediction",
+        "doi": "10.1016/j.ijar.2024.109267",
+        "score": 0.5970503577493168,
+        "year": 2024,
+        "venue": "International Journal of Approximate Reasoning"
+      },
+      {
+        "rank": 9,
+        "title": "Automatic rating method based on deep transfer learning for machine translation considering contextual semantic awareness",
+        "doi": "10.1016/j.aej.2024.08.046",
+        "score": 0.5939998279686006,
+        "year": 2024,
+        "venue": "Alexandria Engineering Journal"
+      },
+      {
+        "rank": 10,
+        "title": "Topic-dependent relation prediction in argument mining: ternary classification",
+        "doi": "10.1007/s10115-025-02573-5",
+        "score": 0.5905847940904096,
+        "year": 2025,
+        "venue": "Knowledge and Information Systems"
+      }
+    ]
+  },
+  {
+    "query": "RL for robotics",
+    "category": "Robotics & RL",
+    "metrics": {
+      "query": "RL for robotics",
+      "num_results": 10,
+      "avg_score": 0.4814360307581486,
+      "top_1_score": 0.5529257158938066,
+      "top_5_avg_score": 0.4980817984932032,
+      "score_variance": 0.0006776718386992608,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.5529257158938066,
+        0.49337476208570785,
+        0.4847999894031717,
+        0.48050245159719296,
+        0.47880607348613663,
+        0.47380393935654713,
+        0.4644861313606127,
+        0.46385742274830377,
+        0.4626977401943059,
+        0.4591060814557011
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Artificial Intelligence for the Electron Ion Collider (AI4EIC)",
+        "doi": "10.1007/s41781-024-00113-4",
+        "score": 0.5529257158938066,
+        "year": 2023,
+        "venue": "Computing and Software for Big Science"
+      },
+      {
+        "rank": 2,
+        "title": "BitHEP - The Limits of Low-Precision ML in HEP",
+        "doi": "10.48550/arxiv.2504.03387",
+        "score": 0.49337476208570785,
+        "year": 2025,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 3,
+        "title": "Elsa: enhanced latent spaces for improved collider simulations",
+        "doi": "10.1140/epjc/s10052-023-11989-8",
+        "score": 0.4847999894031717,
+        "year": 2023,
+        "venue": "The European Physical Journal C"
+      },
+      {
+        "rank": 4,
+        "title": "New directions for surrogate models and differentiable programming for High Energy Physics detector simulation",
+        "doi": "10.48550/arxiv.2203.08806",
+        "score": 0.48050245159719296,
+        "year": 2022,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 5,
+        "title": "Generative Networks for Precision Enthusiasts",
+        "doi": "10.21468/scipostphys.14.4.078",
+        "score": 0.47880607348613663,
+        "year": 2021,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 6,
+        "title": "Flow Matching Beyond Kinematics: Generating Jets with Particle-ID and Trajectory Displacement Information",
+        "doi": "10.1103/physrevd.111.052008",
+        "score": 0.47380393935654713,
+        "year": 2023,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 7,
+        "title": "Machine learning and LHC event generation",
+        "doi": "10.21468/scipostphys.14.4.079",
+        "score": 0.4644861313606127,
+        "year": 2022,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 8,
+        "title": "Event Generation and Density Estimation with Surjective Normalizing Flows",
+        "doi": "10.21468/scipostphys.13.3.047",
+        "score": 0.46385742274830377,
+        "year": 2022,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 9,
+        "title": "Normalizing flows for high-dimensional detector simulations",
+        "doi": "10.21468/scipostphys.18.3.081",
+        "score": 0.4626977401943059,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 10,
+        "title": "Convolutional L2LFlows: generating accurate showers in highly granular calorimeters using convolutional normalizing flows",
+        "doi": "10.1088/1748-0221/19/09/p09003",
+        "score": 0.4591060814557011,
+        "year": 2024,
+        "venue": "Journal of Instrumentation"
+      }
+    ]
+  },
+  {
+    "query": "computer vision object detection",
+    "category": "Computer Vision",
+    "metrics": {
+      "query": "computer vision object detection",
+      "num_results": 10,
+      "avg_score": 0.6212442857189249,
+      "top_1_score": 0.6517721965539371,
+      "top_5_avg_score": 0.6317132680721732,
+      "score_variance": 0.00019249012565080876,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.6517721965539371,
+        0.6403925815676462,
+        0.6231946179036125,
+        0.6228990885826415,
+        0.6203078557530287,
+        0.6160511968447817,
+        0.612894137688269,
+        0.6111832375062768,
+        0.6088667051926611,
+        0.6048812395963945
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Detec\u00e7\u00e3o da Psor\u00edase Utilizando Vis\u00e3o Computacional: Uma Abordagem Comparativa Entre CNNs e Vision Transformers",
+        "doi": "10.48550/arxiv.2506.10119",
+        "score": 0.6517721965539371,
+        "year": 2025,
+        "venue": "Anais do LII Semin\u00e1rio Integrado de Software e Hardware (SEMISH 2025)"
+      },
+      {
+        "rank": 2,
+        "title": "Evaluation of Deep Learning-Based Neural Network Methods for Cloud Detection and Segmentation",
+        "doi": "10.3390/en14196156",
+        "score": 0.6403925815676462,
+        "year": 2021,
+        "venue": "Energies"
+      },
+      {
+        "rank": 3,
+        "title": "Food Image Recognition and Volume Estimation: A Comprehensive Study for Dietary Assessment",
+        "doi": "10.1109/i2ct61223.2024.10543812",
+        "score": 0.6231946179036125,
+        "year": 2024,
+        "venue": "2024 IEEE 9th International Conference for Convergence in Technology (I2CT)"
+      },
+      {
+        "rank": 4,
+        "title": "Local Visual and Global Deep Features Based Blind Stitched Panoramic Image Quality Evaluation Using Ensemble Learning",
+        "doi": "10.1109/tetci.2022.3165935",
+        "score": 0.6228990885826415,
+        "year": 2022,
+        "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence"
+      },
+      {
+        "rank": 5,
+        "title": "Advancing automated street crime detection: a drone-based system integrating CNN models and enhanced feature selection techniques",
+        "doi": "10.1007/s13042-024-02315-z",
+        "score": 0.6203078557530287,
+        "year": 2024,
+        "venue": "International Journal of Machine Learning and Cybernetics"
+      },
+      {
+        "rank": 6,
+        "title": "Image Forgery Detection Based on Fusion of Light Weight Deep Learning Models",
+        "doi": "10.36948/ijfmr.2024.v06i04.23999",
+        "score": 0.6160511968447817,
+        "year": 2024,
+        "venue": "International Journal For Multidisciplinary Research"
+      },
+      {
+        "rank": 7,
+        "title": "A CNN-RNN Combined Structure for Real-World Violence Detection in Surveillance Cameras",
+        "doi": "10.3390/app12031021",
+        "score": 0.612894137688269,
+        "year": 2022,
+        "venue": "Applied Sciences"
+      },
+      {
+        "rank": 8,
+        "title": "DermaVision: Explainable AI-Powered Papulosquamous Detection and Classification Using MobileNetV2 and Grad-CAM",
+        "doi": "10.1109/icetetsip64213.2025.11156880",
+        "score": 0.6111832375062768,
+        "year": 2025,
+        "venue": "2025 12th International Conference on Emerging Trends in Engineering & Technology - Signal and Information Processing (ICETET - SIP)"
+      },
+      {
+        "rank": 9,
+        "title": "Deep Learning-Based Digital Image Forgery Detection System",
+        "doi": "10.3390/app12062851",
+        "score": 0.6088667051926611,
+        "year": 2022,
+        "venue": "Applied Sciences"
+      },
+      {
+        "rank": 10,
+        "title": "Integrating Image Quality Enhancement Methods and Deep Learning Techniques for Remote Sensing Scene Classification",
+        "doi": "10.3390/app112411659",
+        "score": 0.6048812395963945,
+        "year": 2021,
+        "venue": "Applied Sciences"
+      }
+    ]
+  },
+  {
+    "query": "IoT security cryptography",
+    "category": "Security",
+    "metrics": {
+      "query": "IoT security cryptography",
+      "num_results": 10,
+      "avg_score": 0.5171885200068178,
+      "top_1_score": 0.6845799595769796,
+      "top_5_avg_score": 0.588467318714961,
+      "score_variance": 0.007596670740920626,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.6845799595769796,
+        0.6250468933950039,
+        0.5915296530063399,
+        0.5720315531543939,
+        0.46914853444208826,
+        0.4512905207698603,
+        0.44771083952421153,
+        0.44541589595931114,
+        0.4451191232792515,
+        0.4400122269607383
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Node to Node Secure Data Communication for IoT Devices Using Diffie-Hellman, AES, and MD5 Cryptographic Schemes",
+        "doi": "10.1109/icsiot47925.2019.00022",
+        "score": 0.6845799595769796,
+        "year": 2019,
+        "venue": "2019 International Conference on Cyber Security and Internet of Things (ICSIoT)"
+      },
+      {
+        "rank": 2,
+        "title": "Designing for Security Within and Between IoT Devices",
+        "doi": "10.1109/isvlsi.2018.00129",
+        "score": 0.6250468933950039,
+        "year": 2018,
+        "venue": "IEEE Computer Society Annual Symposium on VLSI"
+      },
+      {
+        "rank": 3,
+        "title": "S-CHIRP: Secure communication for heterogeneous IoTs with round-robin protection",
+        "doi": "10.1109/icce.2018.8326301",
+        "score": 0.5915296530063399,
+        "year": 2017,
+        "venue": "IEEE International Conference on Consumer Electronics"
+      },
+      {
+        "rank": 4,
+        "title": "EVO-SCHIRP: Evolved Secure Swarm Communications",
+        "doi": "10.1109/isc2.2018.8656982",
+        "score": 0.5720315531543939,
+        "year": 2018,
+        "venue": "2018 IEEE International Smart Cities Conference (ISC2)"
+      },
+      {
+        "rank": 5,
+        "title": "Efficient Data Replication Management in Fog Computing",
+        "doi": "10.1109/afros62115.2024.11037083",
+        "score": 0.46914853444208826,
+        "year": 2024,
+        "venue": "2024 International Conference of the African Federation of Operational Research Societies (AFROS)"
+      },
+      {
+        "rank": 6,
+        "title": "Managing data replication and distribution in the fog with FReD",
+        "doi": "10.1002/spe.3237",
+        "score": 0.4512905207698603,
+        "year": 2023,
+        "venue": "Software, Practice & Experience"
+      },
+      {
+        "rank": 7,
+        "title": "Komet: A Serverless Platform for Low-Earth Orbit Edge Services",
+        "doi": "10.1145/3698038.3698517",
+        "score": 0.44771083952421153,
+        "year": 2024,
+        "venue": "ACM Symposium on Cloud Computing"
+      },
+      {
+        "rank": 8,
+        "title": "Towards a Benchmark for Fog Data Processing",
+        "doi": "10.1109/ic2e59103.2023.00018",
+        "score": 0.44541589595931114,
+        "year": 2023,
+        "venue": "2023 IEEE International Conference on Cloud Engineering (IC2E)"
+      },
+      {
+        "rank": 9,
+        "title": "Serverless Abstractions for Edge Computing in Large Low-Earth Orbit Satellite Networks",
+        "doi": "10.1145/3626564.3629088",
+        "score": 0.4451191232792515,
+        "year": 2023,
+        "venue": "Middleware Demos/Posters/Doctoral Symposium"
+      },
+      {
+        "rank": 10,
+        "title": "Enoki: Stateful Distributed FaaS from Edge to Cloud",
+        "doi": "10.1145/3630180.3631203",
+        "score": 0.4400122269607383,
+        "year": 2023,
+        "venue": "MIDDLEWEDGE@Middleware"
+      }
+    ]
+  },
+  {
+    "query": "machine learning optimization algorithms",
+    "category": "ML Theory",
+    "metrics": {
+      "query": "machine learning optimization algorithms",
+      "num_results": 10,
+      "avg_score": 0.5849716603145007,
+      "top_1_score": 0.6328611991834565,
+      "top_5_avg_score": 0.6009240449104875,
+      "score_variance": 0.00045732496301207894,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.6328611991834565,
+        0.6076658303803399,
+        0.6050915237774607,
+        0.5828987091592213,
+        0.5761029620519588,
+        0.5705618732915047,
+        0.5693954237378738,
+        0.5689579509882897,
+        0.5685454103060348,
+        0.5676357202688664
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Meta-learning for multiple detector geometry modeling",
+        "doi": "10.1088/1742-6596/2438/1/012102",
+        "score": 0.6328611991834565,
+        "year": 2023,
+        "venue": "Journal of Physics: Conference Series"
+      },
+      {
+        "rank": 2,
+        "title": "New directions for surrogate models and differentiable programming for High Energy Physics detector simulation",
+        "doi": "10.48550/arxiv.2203.08806",
+        "score": 0.6076658303803399,
+        "year": 2022,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 3,
+        "title": "Machine learning and LHC event generation",
+        "doi": "10.21468/scipostphys.14.4.079",
+        "score": 0.6050915237774607,
+        "year": 2022,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 4,
+        "title": "Modeling hadronization using machine learning",
+        "doi": "10.21468/scipostphys.14.3.027",
+        "score": 0.5828987091592213,
+        "year": 2022,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 5,
+        "title": "BitHEP - The Limits of Low-Precision ML in HEP",
+        "doi": "10.48550/arxiv.2504.03387",
+        "score": 0.5761029620519588,
+        "year": 2025,
+        "venue": "arXiv.org"
+      },
+      {
+        "rank": 6,
+        "title": "MadNIS - Neural multi-channel importance sampling",
+        "doi": "10.21468/scipostphys.15.4.141",
+        "score": 0.5705618732915047,
+        "year": 2022,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 7,
+        "title": "Unifying simulation and inference with normalizing flows",
+        "doi": "10.1103/physrevd.111.076004",
+        "score": 0.5693954237378738,
+        "year": 2024,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 8,
+        "title": "Towards a deep learning model for hadronization",
+        "doi": "10.1103/physrevd.106.096020",
+        "score": 0.5689579509882897,
+        "year": 2022,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 9,
+        "title": "Normalizing flows for high-dimensional detector simulations",
+        "doi": "10.21468/scipostphys.18.3.081",
+        "score": 0.5685454103060348,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 10,
+        "title": "The MadNIS reloaded",
+        "doi": "10.21468/scipostphys.17.1.023",
+        "score": 0.5676357202688664,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      }
+    ]
+  },
+  {
+    "query": "recommender systems collaborative filtering",
+    "category": "Recommender Systems",
+    "metrics": {
+      "query": "recommender systems collaborative filtering",
+      "num_results": 10,
+      "avg_score": 0.7100762268134662,
+      "top_1_score": 0.7577800727936058,
+      "top_5_avg_score": 0.7251751247703022,
+      "score_variance": 0.0004002724143753104,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.7577800727936058,
+        0.7277805866650052,
+        0.715334800875862,
+        0.7151537094094115,
+        0.7098264541076267,
+        0.7031753405614493,
+        0.7010514557420893,
+        0.6957595171439008,
+        0.688502030272401,
+        0.6863983005633097
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering",
+        "doi": "10.1145/3580305.3599450",
+        "score": 0.7577800727936058,
+        "year": 2023,
+        "venue": "Knowledge Discovery and Data Mining"
+      },
+      {
+        "rank": 2,
+        "title": "G-TransRec: A Transformer-Based Next-Item Recommendation With Time Prediction",
+        "doi": "10.1109/tcss.2024.3354315",
+        "score": 0.7277805866650052,
+        "year": 2024,
+        "venue": "IEEE Transactions on Computational Social Systems"
+      },
+      {
+        "rank": 3,
+        "title": "TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems",
+        "doi": "10.1145/3626772.3657721",
+        "score": 0.715334800875862,
+        "year": 2023,
+        "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval"
+      },
+      {
+        "rank": 4,
+        "title": "Collaborative local-global context modeling for session-based recommendation",
+        "doi": "10.1016/j.ipm.2025.104196",
+        "score": 0.7151537094094115,
+        "year": 2025,
+        "venue": "Information Processing & Management"
+      },
+      {
+        "rank": 5,
+        "title": "ALGIN: Adaptive Local and Global Interests Network for Click-Through Rate Prediction",
+        "doi": "10.1109/smc54092.2024.10830951",
+        "score": 0.7098264541076267,
+        "year": 2024,
+        "venue": "IEEE International Conference on Systems, Man and Cybernetics"
+      },
+      {
+        "rank": 6,
+        "title": "Time Matters: Enhancing Sequential Recommendations with Time-Guided Graph Neural ODEs",
+        "doi": "10.1145/3711896.3737156",
+        "score": 0.7031753405614493,
+        "year": 2025,
+        "venue": "Knowledge Discovery and Data Mining"
+      },
+      {
+        "rank": 7,
+        "title": "GPT4Rec: Graph Prompt Tuning for Streaming Recommendation",
+        "doi": "10.1145/3626772.3657720",
+        "score": 0.7010514557420893,
+        "year": 2024,
+        "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval"
+      },
+      {
+        "rank": 8,
+        "title": "Time-Frequency Sensitive Prompt Tuning Framework for Session-based Recommendation",
+        "doi": "10.1016/j.eswa.2025.126501",
+        "score": 0.6957595171439008,
+        "year": 2025,
+        "venue": "Expert systems with applications"
+      },
+      {
+        "rank": 9,
+        "title": "Evolutionary Preference Learning via Graph Nested GRU ODE for Session-based Recommendation",
+        "doi": "10.1145/3511808.3557314",
+        "score": 0.688502030272401,
+        "year": 2022,
+        "venue": "International Conference on Information and Knowledge Management"
+      },
+      {
+        "rank": 10,
+        "title": "Multi-intent-aware Session-based Recommendation",
+        "doi": "10.1145/3626772.3657928",
+        "score": 0.6863983005633097,
+        "year": 2024,
+        "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval"
+      }
+    ]
+  },
+  {
+    "query": "graph convolutional networks",
+    "category": "Graph Learning",
+    "metrics": {
+      "query": "graph convolutional networks",
+      "num_results": 10,
+      "avg_score": 0.5377688626932984,
+      "top_1_score": 0.5553793061424488,
+      "top_5_avg_score": 0.5496492288055549,
+      "score_variance": 0.00018903477197414239,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.5553793061424488,
+        0.5536355404247262,
+        0.5493160091281124,
+        0.5488387193092111,
+        0.541076569023276,
+        0.5396013222416145,
+        0.5310598498997731,
+        0.5234287717287393,
+        0.5180062172397095,
+        0.5173463217953728
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "CaloDREAM -- Detector Response Emulation via Attentive flow Matching",
+        "doi": "10.21468/scipostphys.18.3.088",
+        "score": 0.5553793061424488,
+        "year": 2024,
+        "venue": ""
+      },
+      {
+        "rank": 2,
+        "title": "How to understand limitations of generative networks",
+        "doi": "10.21468/scipostphys.16.1.031",
+        "score": 0.5536355404247262,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 3,
+        "title": "Set-conditional set generation for particle physics",
+        "doi": "10.1088/2632-2153/ad035b",
+        "score": 0.5493160091281124,
+        "year": 2022,
+        "venue": "Machine Learning: Science and Technology"
+      },
+      {
+        "rank": 4,
+        "title": "Towards a deep learning model for hadronization",
+        "doi": "10.1103/physrevd.106.096020",
+        "score": 0.5488387193092111,
+        "year": 2022,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 5,
+        "title": "Flowification: Everything is a Normalizing Flow",
+        "doi": "10.48550/arxiv.2205.15209",
+        "score": 0.541076569023276,
+        "year": 2022,
+        "venue": "Neural Information Processing Systems"
+      },
+      {
+        "rank": 6,
+        "title": "Generative Networks for Precision Enthusiasts",
+        "doi": "10.21468/scipostphys.14.4.078",
+        "score": 0.5396013222416145,
+        "year": 2021,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 7,
+        "title": "EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets",
+        "doi": "10.21468/scipostphys.15.4.130",
+        "score": 0.5310598498997731,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 8,
+        "title": "Disentangling quark and gluon jets with normalizing flows",
+        "doi": "10.1103/physrevd.107.114003",
+        "score": 0.5234287717287393,
+        "year": 2022,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 9,
+        "title": "Normalizing flows for high-dimensional detector simulations",
+        "doi": "10.21468/scipostphys.18.3.081",
+        "score": 0.5180062172397095,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 10,
+        "title": "Two invertible networks for the matrix element method",
+        "doi": "10.21468/scipostphys.15.3.094",
+        "score": 0.5173463217953728,
+        "year": 2022,
+        "venue": "SciPost Physics"
+      }
+    ]
+  },
+  {
+    "query": "attention mechanisms neural networks",
+    "category": "Attention",
+    "metrics": {
+      "query": "attention mechanisms neural networks",
+      "num_results": 10,
+      "avg_score": 0.5936031201417798,
+      "top_1_score": 0.6198083947670658,
+      "top_5_avg_score": 0.6040722487524744,
+      "score_variance": 0.0001653418358180095,
+      "has_relevant_results": true,
+      "relevance_scores": [
+        0.6198083947670658,
+        0.6086270395023852,
+        0.6051516612747341,
+        0.593686365616084,
+        0.593087782602103,
+        0.589241622654141,
+        0.5835664269925847,
+        0.5832021198451769,
+        0.5798419993431306,
+        0.5798177888203931
+      ]
+    },
+    "top_results": [
+      {
+        "rank": 1,
+        "title": "Set-conditional set generation for particle physics",
+        "doi": "10.1088/2632-2153/ad035b",
+        "score": 0.6198083947670658,
+        "year": 2022,
+        "venue": "Machine Learning: Science and Technology"
+      },
+      {
+        "rank": 2,
+        "title": "Flowification: Everything is a Normalizing Flow",
+        "doi": "10.48550/arxiv.2205.15209",
+        "score": 0.6086270395023852,
+        "year": 2022,
+        "venue": "Neural Information Processing Systems"
+      },
+      {
+        "rank": 3,
+        "title": "How to understand limitations of generative networks",
+        "doi": "10.21468/scipostphys.16.1.031",
+        "score": 0.6051516612747341,
+        "year": 2023,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 4,
+        "title": "CaloDREAM -- Detector Response Emulation via Attentive flow Matching",
+        "doi": "10.21468/scipostphys.18.3.088",
+        "score": 0.593686365616084,
+        "year": 2024,
+        "venue": ""
+      },
+      {
+        "rank": 5,
+        "title": "Generative Networks for Precision Enthusiasts",
+        "doi": "10.21468/scipostphys.14.4.078",
+        "score": 0.593087782602103,
+        "year": 2021,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 6,
+        "title": "Towards a deep learning model for hadronization",
+        "doi": "10.1103/physrevd.106.096020",
+        "score": 0.589241622654141,
+        "year": 2022,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 7,
+        "title": "MadNIS - Neural multi-channel importance sampling",
+        "doi": "10.21468/scipostphys.15.4.141",
+        "score": 0.5835664269925847,
+        "year": 2022,
+        "venue": "SciPost Physics"
+      },
+      {
+        "rank": 8,
+        "title": "Hadrons, better, faster, stronger",
+        "doi": "10.1088/2632-2153/ac7848",
+        "score": 0.5832021198451769,
+        "year": 2021,
+        "venue": "Machine Learning: Science and Technology"
+      },
+      {
+        "rank": 9,
+        "title": "Evaluating generative models in high energy physics",
+        "doi": "10.1103/physrevd.107.076017",
+        "score": 0.5798419993431306,
+        "year": 2022,
+        "venue": "Physical Review D"
+      },
+      {
+        "rank": 10,
+        "title": "Ephemeral Learning - Augmenting Triggers with Online-Trained Normalizing Flows",
+        "doi": "10.21468/scipostphys.13.4.087",
+        "score": 0.5798177888203931,
+        "year": 2022,
+        "venue": "SciPost Physics"
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#000">
+    Hybrid GNN-Semantic Paper Recommendation System
+  </text>
+
+  <!-- Input Data -->
+  <rect x="50" y="60" width="150" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
+  <text x="125" y="85" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#1565c0">Input Data</text>
+  <text x="125" y="105" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">Papers + Citations</text>
+
+  <!-- Citation Graph Construction -->
+  <rect x="280" y="60" width="180" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
+  <text x="370" y="80" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#f57c00">Citation Graph</text>
+  <text x="370" y="95" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">Construction</text>
+  <text x="370" y="110" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">(Nodes &amp; Edges)</text>
+
+  <!-- Semantic Embedding -->
+  <rect x="530" y="60" width="180" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
+  <text x="620" y="80" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#f57c00">Semantic</text>
+  <text x="620" y="95" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">Embeddings</text>
+  <text x="620" y="110" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">(Title+Abstract)</text>
+
+  <!-- Arrows from Input -->
+  <line x1="200" y1="90" x2="280" y2="90" stroke="#424242" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 125 120 L 125 160 L 620 160 L 620 120" stroke="#424242" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- GNN Training -->
+  <rect x="280" y="180" width="180" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
+  <text x="370" y="205" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#f57c00">GNN Training</text>
+  <text x="370" y="225" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">Architecture:</text>
+  <text x="370" y="240" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">GCN / GAT / SAGE</text>
+  <text x="370" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">3 Layers, Dropout=0.3</text>
+
+  <!-- Arrow from Citation Graph to GNN -->
+  <line x1="370" y1="120" x2="370" y2="180" stroke="#424242" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- GNN Embeddings -->
+  <rect x="280" y="310" width="180" height="60" fill="#e8f5e9" stroke="#388e3c" stroke-width="2" rx="5"/>
+  <text x="370" y="330" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#388e3c">GNN Embeddings</text>
+  <text x="370" y="345" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">128-dim vectors</text>
+  <text x="370" y="360" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">(L2 normalized)</text>
+
+  <!-- Arrow from GNN to GNN Embeddings -->
+  <line x1="370" y1="260" x2="370" y2="310" stroke="#424242" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Text Embeddings -->
+  <rect x="530" y="310" width="180" height="60" fill="#e8f5e9" stroke="#388e3c" stroke-width="2" rx="5"/>
+  <text x="620" y="330" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#388e3c">Text Embeddings</text>
+  <text x="620" y="345" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">512-dim vectors</text>
+  <text x="620" y="360" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">(0.3*title + 0.7*abstract)</text>
+
+  <!-- Arrow from Semantic to Text Embeddings -->
+  <line x1="620" y1="120" x2="620" y2="310" stroke="#424242" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Combined Embeddings -->
+  <rect x="330" y="420" width="240" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
+  <text x="450" y="440" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#f57c00">Combined Embeddings</text>
+  <text x="450" y="455" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">Concatenate: GNN + Semantic</text>
+  <text x="450" y="470" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">(128 + 512 = 640-dim)</text>
+
+  <!-- Arrows to Combined -->
+  <line x1="370" y1="370" x2="410" y2="420" stroke="#424242" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="620" y1="370" x2="490" y2="420" stroke="#424242" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- User Query -->
+  <rect x="50" y="520" width="150" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
+  <text x="125" y="545" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#1565c0">User Query</text>
+  <text x="125" y="565" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">"deep learning..."</text>
+
+  <!-- Ranking -->
+  <rect x="280" y="520" width="180" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
+  <text x="370" y="540" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#f57c00">Ranking</text>
+  <text x="370" y="555" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">Cosine Similarity</text>
+  <text x="370" y="570" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">Top-K Selection</text>
+
+  <!-- Recommendations -->
+  <rect x="530" y="520" width="180" height="60" fill="#e8f5e9" stroke="#388e3c" stroke-width="2" rx="5"/>
+  <text x="620" y="545" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#388e3c">Top-K Papers</text>
+  <text x="620" y="565" text-anchor="middle" font-family="Arial" font-size="12" fill="#424242">Ranked Results</text>
+
+  <!-- Arrows for query flow -->
+  <line x1="450" y1="480" x2="370" y2="520" stroke="#424242" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="200" y1="550" x2="280" y2="550" stroke="#424242" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="460" y1="550" x2="530" y2="550" stroke="#424242" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0,0 10,3 0,6" fill="#424242"/>
+    </marker>
+  </defs>
+</svg>

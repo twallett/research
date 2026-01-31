@@ -1,0 +1,115 @@
+================================================================================
+PAPER RECOMMENDATION SYSTEM - EVALUATION REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Number of test queries: 10
+Average Top-1 Score: 0.3661
+Average Score: 0.2742
+Average Top-5 Score: 0.3059
+Queries with relevant results: 8/10
+
+PER-QUERY RESULTS
+--------------------------------------------------------------------------------
+
+Query: deep learning neural networks
+Category: Deep Learning
+  Top-1 Score: 0.3289
+  Avg Score: 0.2956
+  Top-3 Papers:
+    1. [0.3289] Towards a deep learning model for hadronization
+    2. [0.3094] Segmentation and Classification of Skin Cancer Diseases Based on Deep Learning: Challenges and Future Directions
+    3. [0.2967] Unifying simulation and inference with normalizing flows
+
+Query: graph neural networks for molecular property prediction
+Category: GNN Applications
+  Top-1 Score: 0.4399
+  Avg Score: 0.3096
+  Top-3 Papers:
+    1. [0.4399] Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks
+    2. [0.3451] Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network
+    3. [0.3198] Homophily-oriented Heterogeneous Graph Rewiring
+
+Query: natural language processing transformers
+Category: NLP
+  Top-1 Score: 0.4124
+  Avg Score: 0.3081
+  Top-3 Papers:
+    1. [0.4124] Learning the language of QCD jets with transformers
+    2. [0.3897] Synergizing Machine Learning & Symbolic Methods: A Survey on Hybrid Approaches to Natural Language Processing
+    3. [0.3172] Argument Relation Classification through Discourse Markers and Adversarial Training
+
+Query: reinforcement learning robotics
+Category: Robotics & RL
+  Top-1 Score: 0.3759
+  Avg Score: 0.2787
+  Top-3 Papers:
+    1. [0.3759] Reduce, Reuse, Recycle: Categories for Compositional Reinforcement Learning
+    2. [0.3046] Evolving Physical Instinct for Morphology and Control Co-Adaption
+    3. [0.2999] Embodied AI in Machine Learning - is it Really Embodied?
+
+Query: computer vision object detection
+Category: Computer Vision
+  Top-1 Score: 0.2628
+  Avg Score: 0.2162
+  Top-3 Papers:
+    1. [0.2628] Detecção da Psoríase Utilizando Visão Computacional: Uma Abordagem Comparativa Entre CNNs e Vision Transformers
+    2. [0.2431] Evaluation of Deep Learning-Based Neural Network Methods for Cloud Detection and Segmentation
+    3. [0.2158] Local Visual and Global Deep Features Based Blind Stitched Panoramic Image Quality Evaluation Using Ensemble Learning
+
+Query: IoT security cryptography
+Category: Security
+  Top-1 Score: 0.4598
+  Avg Score: 0.2115
+  Top-3 Papers:
+    1. [0.4598] Node to Node Secure Data Communication for IoT Devices Using Diffie-Hellman, AES, and MD5 Cryptographic Schemes
+    2. [0.3599] Designing for Security Within and Between IoT Devices
+    3. [0.3124] S-CHIRP: Secure communication for heterogeneous IoTs with round-robin protection
+
+Query: machine learning optimization algorithms
+Category: ML Theory
+  Top-1 Score: 0.2783
+  Avg Score: 0.2363
+  Top-3 Papers:
+    1. [0.2783] Meta-learning for multiple detector geometry modeling
+    2. [0.2553] BitHEP - The Limits of Low-Precision ML in HEP
+    3. [0.2538] Skin Cancer Detection using Transfer Learning Models and Ensemble Approach to Enhanced Diagnostic Accuracy
+
+Query: recommender systems collaborative filtering
+Category: Recommender Systems
+  Top-1 Score: 0.3820
+  Avg Score: 0.3132
+  Top-3 Papers:
+    1. [0.3820] On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering
+    2. [0.3391] G-TransRec: A Transformer-Based Next-Item Recommendation With Time Prediction
+    3. [0.3208] TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems
+
+Query: graph convolutional networks
+Category: Graph Learning
+  Top-1 Score: 0.3693
+  Avg Score: 0.3231
+  Top-3 Papers:
+    1. [0.3693] Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks
+    2. [0.3647] Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network
+    3. [0.3565] ConTIG: Continuous Representation Learning on Temporal Interaction Graphs
+
+Query: attention mechanisms neural networks
+Category: Attention
+  Top-1 Score: 0.3514
+  Avg Score: 0.2494
+  Top-3 Papers:
+    1. [0.3514] Universal Neurons in GPT2 Language Models
+    2. [0.2727] Attention Calibration for Transformer-based Sequential Recommendation
+    3. [0.2529] Evolving Physical Instinct for Morphology and Control Co-Adaption
+
+================================================================================
+GNN vs SEMANTIC-ONLY COMPARISON
+================================================================================
+Average GNN+Semantic Score: 0.2742
+Average Semantic-only Score: 0.3877
+Average Improvement: -29.29%
+Average Top-5 Overlap: 5.0/5
+Average Top-10 Overlap: 10.0/10
+
+================================================================================

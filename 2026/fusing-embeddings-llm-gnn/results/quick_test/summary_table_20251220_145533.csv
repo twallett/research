@@ -1,0 +1,4 @@
+Query,Category,Top-1 Score,Avg Score,Top-5 Avg,Relevant
+deep learning neural networks,Deep Learning,0.6688,0.6513,0.6513,Yes
+graph neural networks for molecular property predi,GNN Applications,0.5494,0.5232,0.5232,Yes
+natural language processing transformers,NLP,0.7016,0.6748,0.6748,Yes

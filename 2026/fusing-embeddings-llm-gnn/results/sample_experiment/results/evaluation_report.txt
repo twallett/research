@@ -1,0 +1,115 @@
+================================================================================
+PAPER RECOMMENDATION SYSTEM - EVALUATION REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Number of test queries: 10
+Average Top-1 Score: 0.6360
+Average Score: 0.5763
+Average Top-5 Score: 0.5962
+Queries with relevant results: 10/10
+
+PER-QUERY RESULTS
+--------------------------------------------------------------------------------
+
+Query: deep learning neural networks
+Category: Deep Learning
+  Top-1 Score: 0.6722
+  Avg Score: 0.6413
+  Top-3 Papers:
+    1. [0.6722] Towards a deep learning model for hadronization
+    2. [0.6492] How to understand limitations of generative networks
+    3. [0.6481] Unifying simulation and inference with normalizing flows
+
+Query: graph neural networks for molecular property prediction
+Category: GNN Applications
+  Top-1 Score: 0.5605
+  Avg Score: 0.4626
+  Top-3 Papers:
+    1. [0.5605] Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks
+    2. [0.4722] Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network
+    3. [0.4699] Set-conditional set generation for particle physics
+
+Query: natural language processing transformers
+Category: NLP
+  Top-1 Score: 0.6718
+  Avg Score: 0.6124
+  Top-3 Papers:
+    1. [0.6718] Synergizing Machine Learning & Symbolic Methods: A Survey on Hybrid Approaches to Natural Language Processing
+    2. [0.6289] Argument Relation Classification through Discourse Markers and Adversarial Training
+    3. [0.6268] Uncovering Implicit Inferences for Improved Relational Argument Mining
+
+Query: RL for robotics
+Category: Robotics & RL
+  Top-1 Score: 0.5529
+  Avg Score: 0.4814
+  Top-3 Papers:
+    1. [0.5529] Artificial Intelligence for the Electron Ion Collider (AI4EIC)
+    2. [0.4934] BitHEP - The Limits of Low-Precision ML in HEP
+    3. [0.4848] Elsa: enhanced latent spaces for improved collider simulations
+
+Query: computer vision object detection
+Category: Computer Vision
+  Top-1 Score: 0.6518
+  Avg Score: 0.6212
+  Top-3 Papers:
+    1. [0.6518] Detecção da Psoríase Utilizando Visão Computacional: Uma Abordagem Comparativa Entre CNNs e Vision Transformers
+    2. [0.6404] Evaluation of Deep Learning-Based Neural Network Methods for Cloud Detection and Segmentation
+    3. [0.6232] Food Image Recognition and Volume Estimation: A Comprehensive Study for Dietary Assessment
+
+Query: IoT security cryptography
+Category: Security
+  Top-1 Score: 0.6846
+  Avg Score: 0.5172
+  Top-3 Papers:
+    1. [0.6846] Node to Node Secure Data Communication for IoT Devices Using Diffie-Hellman, AES, and MD5 Cryptographic Schemes
+    2. [0.6250] Designing for Security Within and Between IoT Devices
+    3. [0.5915] S-CHIRP: Secure communication for heterogeneous IoTs with round-robin protection
+
+Query: machine learning optimization algorithms
+Category: ML Theory
+  Top-1 Score: 0.6329
+  Avg Score: 0.5850
+  Top-3 Papers:
+    1. [0.6329] Meta-learning for multiple detector geometry modeling
+    2. [0.6077] New directions for surrogate models and differentiable programming for High Energy Physics detector simulation
+    3. [0.6051] Machine learning and LHC event generation
+
+Query: recommender systems collaborative filtering
+Category: Recommender Systems
+  Top-1 Score: 0.7578
+  Avg Score: 0.7101
+  Top-3 Papers:
+    1. [0.7578] On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering
+    2. [0.7278] G-TransRec: A Transformer-Based Next-Item Recommendation With Time Prediction
+    3. [0.7153] TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems
+
+Query: graph convolutional networks
+Category: Graph Learning
+  Top-1 Score: 0.5554
+  Avg Score: 0.5378
+  Top-3 Papers:
+    1. [0.5554] CaloDREAM -- Detector Response Emulation via Attentive flow Matching
+    2. [0.5536] How to understand limitations of generative networks
+    3. [0.5493] Set-conditional set generation for particle physics
+
+Query: attention mechanisms neural networks
+Category: Attention
+  Top-1 Score: 0.6198
+  Avg Score: 0.5936
+  Top-3 Papers:
+    1. [0.6198] Set-conditional set generation for particle physics
+    2. [0.6086] Flowification: Everything is a Normalizing Flow
+    3. [0.6052] How to understand limitations of generative networks
+
+================================================================================
+GNN vs SEMANTIC-ONLY COMPARISON
+================================================================================
+Average GNN+Semantic Score: 0.5763
+Average Semantic-only Score: 0.3828
+Average Improvement: +53.66%
+Average Top-5 Overlap: 3.0/5
+Average Top-10 Overlap: 5.4/10
+
+================================================================================
